@@ -5,12 +5,19 @@
     --text-primary: #f8fafc;
     --text-secondary: #94a3b8;
     --accent-color: #38bdf8;
+    
+    /* Market Status Colors */
     --status-open-bg: rgba(34, 197, 94, 0.15);
     --status-open-text: #4ade80;
     --status-closed-bg: rgba(239, 68, 68, 0.15);
     --status-closed-text: #f87171;
     --status-pending-bg: rgba(148, 163, 184, 0.15);
     --status-pending-text: #cbd5e1;
+
+    /* Highlight Colors for Metrics */
+    --highlight-green: #4ade80;
+    --highlight-blue: #60a5fa;
+    --highlight-purple: #c084fc;
 }
 
 * {
@@ -37,13 +44,14 @@ body {
     height: 100vh;
     z-index: -1;
     overflow: hidden;
+    pointer-events: none;
 }
 
 .glow-orb {
     position: absolute;
     border-radius: 50%;
     filter: blur(100px);
-    opacity: 0.4;
+    opacity: 0.3;
     animation: float 20s infinite ease-in-out alternate;
 }
 
@@ -77,7 +85,7 @@ body {
 
 /* Header */
 header {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -95,14 +103,110 @@ header {
 .header-content p {
     color: var(--text-secondary);
     font-size: 1.1rem;
+    max-width: 700px;
 }
 
 .controls {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
-    padding-bottom: 1rem;
+}
+
+.last-updated {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+/* Dashboard Overview */
+.dashboard-overview {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
     border-bottom: 1px solid var(--card-border);
+}
+
+@media (min-width: 900px) {
+    .dashboard-overview {
+        grid-template-columns: 2fr 1fr;
+        align-items: center;
+    }
+}
+
+.metrics-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+@media (min-width: 600px) {
+    .metrics-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.metric-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.metric-card h3 {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.metric-card p {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.highlight-green { color: var(--highlight-green); }
+.highlight-blue { color: var(--highlight-blue); }
+.highlight-purple { color: var(--highlight-purple); }
+
+.chart-wrapper {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Grid Toolbar */
+.grid-toolbar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 600px) {
+    .grid-toolbar {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.grid-toolbar h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
 }
 
 .sort-control {
@@ -116,7 +220,7 @@ header {
     font-size: 0.9rem;
 }
 
-.sort-control select {
+.sort-control select, .personal-status-select {
     background: var(--card-bg);
     color: var(--text-primary);
     border: 1px solid var(--card-border);
@@ -129,9 +233,8 @@ header {
     backdrop-filter: blur(10px);
 }
 
-.last-updated {
-    font-size: 0.85rem;
-    color: var(--text-secondary);
+.sort-control select:hover, .personal-status-select:hover {
+    border-color: rgba(255, 255, 255, 0.3);
 }
 
 /* Grid */
@@ -250,8 +353,31 @@ header {
     font-weight: 500;
 }
 
+/* Personal Tracking UI */
+.personal-tracking {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px dashed rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.personal-status-select {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.85rem;
+    width: 140px;
+}
+
+/* Option Colors for dropdown (works in some browsers) */
+.personal-status-select option[value="To Do"] { color: #f8fafc; }
+.personal-status-select option[value="Applied"] { color: #60a5fa; }
+.personal-status-select option[value="Interviewing"] { color: #c084fc; }
+.personal-status-select option[value="Offer"] { color: #4ade80; }
+.personal-status-select option[value="Rejected"] { color: #f87171; }
+
 .card-footer {
-    margin-top: 1.5rem;
+    margin-top: 1.25rem;
     padding-top: 1.25rem;
     border-top: 1px solid var(--card-border);
 }
@@ -280,23 +406,4 @@ footer {
     text-align: center;
     color: var(--text-secondary);
     font-size: 0.85rem;
-}
-
-/* Responsive */
-@media (min-width: 768px) {
-    header {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: flex-end;
-    }
-    .header-content {
-        max-width: 60%;
-    }
-    .controls {
-        padding-bottom: 0;
-        border-bottom: none;
-        flex-direction: column;
-        align-items: flex-end;
-        gap: 0.5rem;
-    }
 }

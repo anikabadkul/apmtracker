@@ -8,6 +8,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <!-- Chart.js for Dashboard Visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <div class="background-elements">
@@ -18,22 +20,54 @@
     <div class="container">
         <header>
             <div class="header-content">
-                <h1>Summer 2027 APM/PM Tracker</h1>
-                <p>Stay ahead of the curve. Track application cycles for top-tier Product Management internships.</p>
+                <h1>Summer 2027 APM/PM Dashboard</h1>
+                <p>Stay ahead of the curve. Track application cycles and your personal progress for top-tier Product Management internships.</p>
             </div>
             <div class="controls">
-                <div class="sort-control">
-                    <label for="sortSelect">Sort by:</label>
-                    <select id="sortSelect">
-                        <option value="expectedOpening">Expected Opening (Earliest First)</option>
-                        <option value="name">Company Name (A-Z)</option>
-                    </select>
-                </div>
                 <div class="last-updated">
                     <span id="lastUpdatedText">Last updated: Just now</span>
                 </div>
             </div>
         </header>
+
+        <!-- New Dashboard Overview Section -->
+        <section class="dashboard-overview">
+            <div class="metrics-container">
+                <div class="metric-card">
+                    <h3>Total Tracked</h3>
+                    <p id="totalCount">0</p>
+                </div>
+                <div class="metric-card">
+                    <h3>Market Openings</h3>
+                    <p id="openCount" class="highlight-green">0</p>
+                </div>
+                <div class="metric-card">
+                    <h3>My Applications</h3>
+                    <p id="appliedCount" class="highlight-blue">0</p>
+                </div>
+                <div class="metric-card">
+                    <h3>Interviews</h3>
+                    <p id="interviewCount" class="highlight-purple">0</p>
+                </div>
+            </div>
+            
+            <div class="chart-wrapper">
+                <canvas id="marketChart"></canvas>
+            </div>
+        </section>
+
+        <!-- Toolbar for Grid -->
+        <div class="grid-toolbar">
+            <h2>Opportunities</h2>
+            <div class="sort-control">
+                <label for="sortSelect">Sort by:</label>
+                <select id="sortSelect">
+                    <option value="expectedOpening">Expected Opening (Earliest First)</option>
+                    <option value="name">Company Name (A-Z)</option>
+                    <option value="myStatus">My Status (Action Required First)</option>
+                </select>
+            </div>
+        </div>
 
         <main>
             <div id="tracker-grid" class="tracker-grid">
