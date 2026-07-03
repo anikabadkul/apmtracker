@@ -476,3 +476,30 @@ footer {
     font-size: 0.85rem;
     padding-bottom: 2rem;
 }
+
+/* 
+=============================
+   MOBILE RESPONSIVENESS
+============================= 
+*/
+@media (max-width: 768px) {
+    .header-bento {
+        grid-template-columns: 1fr;
+    }
+    .chart-card {
+        grid-column: span 1;
+        flex-direction: column;
+    }
+    .chart-container {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    .search-filter-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .search-input, .sort-select {
+        width: 100%;
+    }
+}

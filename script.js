@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.getElementById('tracker-grid');
     const sortSelect = document.getElementById('sortSelect');
+    const searchInput = document.getElementById('searchInput');
+    const chips = document.querySelectorAll('.filter-chip');
     
-    // State Management for Personal Tracking
+    // State Management
     let userStatuses = JSON.parse(localStorage.getItem('apmUserStatus')) || {};
-
     let marketChartInstance = null;
+    let currentFilter = 'all';
     
-    // Format the date nicely
     const updateTime = () => {
         const now = new Date();
         document.getElementById('lastUpdatedText').textContent = 
@@ -15,12 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const getStatusClass = (status) => {
+        if (!status) return 'status-pending';
         if (status.toLowerCase().includes('open')) return 'status-open';
         if (status.toLowerCase().includes('closed')) return 'status-closed';
         return 'status-pending';
     };
 
-    // Calculate and Update Dashboard Metrics
     const updateDashboard = () => {
         document.getElementById('totalCount').textContent = companies.length;
         
@@ -42,19 +43,16 @@ document.addEventListener('DOMContentLoaded', () => {
         Object.values(userStatuses).forEach(status => {
             if (status === 'Applied') myApplied++;
             if (status === 'Interviewing') myInterviews++;
-            // Offer and Rejected are omitted from the top quick count, but can be tracked
         });
 
         document.getElementById('appliedCount').textContent = myApplied;
         document.getElementById('interviewCount').textContent = myInterviews;
 
-        // Render Chart.js
         renderChart(marketOpen, marketPending, marketClosed);
     };
 
     const renderChart = (open, pending, closed) => {
         const ctx = document.getElementById('marketChart').getContext('2d');
-        
         if (marketChartInstance) {
             marketChartInstance.destroy();
         }
@@ -65,16 +63,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 labels: ['Open', 'Pending', 'Closed'],
                 datasets: [{
                     data: [open, pending, closed],
-                    backgroundColor: [
-                        '#10B981', // Open - IoT Green
-                        '#94A3B8', // Pending - Slate
-                        '#EF4444'  // Closed - Red
-                    ],
-                    borderColor: [
-                        '#FFFFFF',
-                        '#FFFFFF',
-                        '#FFFFFF'
-                    ],
+                    backgroundColor: ['#10B981', '#94A3B8', '#EF4444'],
+                    borderColor: ['#FFFFFF', '#FFFFFF', '#FFFFFF'],
                     borderWidth: 2,
                     hoverOffset: 4
                 }]
@@ -101,16 +91,27 @@ document.addEventListener('DOMContentLoaded', () => {
         const newStatus = e.target.value;
         userStatuses[id] = newStatus;
         localStorage.setItem('apmUserStatus', JSON.stringify(userStatuses));
-        updateDashboard(); // Re-calc top metrics
+        updateDashboard();
+        if (currentFilter === 'my-apps') {
+            applyFilters();
+        }
     };
 
-    const renderCards = (data) => {
-        grid.innerHTML = '';
-        data.forEach(company => {
-            const card = document.createElement('div');
-            card.className = 'card';
+    const createCard = (company) => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        const currentMyStatus = userStatuses[company.name] || "To Do";
+        const opt = (val) => `<option value="${val}" ${currentMyStatus === val ? 'selected' : ''}>${val}</option>`;
+
+        card.innerHTML = `
+            <div class="card-header">
+                <div class="company-info">
+                    <img loading="lazy" src="https://logo.clearbit.com/${company.domain}?size=100" class="company-logo" alt="${company.name} logo" onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(company.name)}&background=random&color=fff';">
+                    <span class="company-name">${company.name}</span>
+                </div>
+                <span class="status-badge ${getStatusClass(company.status)}">${company.status}</span>
+            </div>
             
-            const logoUrl = `https://logo.clearbit.com/${company.domain}?size=100`;
             <div class="card-body">
                 <div class="detail-group">
                     <span class="detail-label">Role</span>
@@ -131,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 <div class="personal-tracking">
                     <span class="detail-label">My Status:</span>
-                    <select class="personal-status-select" data-id="${company.id}">
+                    <select class="personal-status-select" data-id="${company.name}">
                         ${opt("To Do")}
                         ${opt("Applied")}
                         ${opt("Interviewing")}
@@ -152,21 +153,19 @@ document.addEventListener('DOMContentLoaded', () => {
         return card;
     };
 
-    let currentFilter = 'all';
-    
-    function renderCards(companiesToRender) {
+    const renderCards = (companiesToRender) => {
         grid.innerHTML = '';
         if (companiesToRender.length === 0) {
-            grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">No companies found matching your criteria.</div>';
+            grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted); font-size: 1.1rem;">No companies found matching your criteria.</div>';
             return;
         }
         companiesToRender.forEach(company => {
             grid.appendChild(createCard(company));
         });
-    }
+    };
 
-    function applyFilters() {
-        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+    const applyFilters = () => {
+        const searchTerm = searchInput.value.toLowerCase();
         
         let filtered = companies.filter(c => c.name.toLowerCase().includes(searchTerm));
         
@@ -183,35 +182,32 @@ document.addEventListener('DOMContentLoaded', () => {
             filtered = filtered.filter(c => unicorns.some(t => c.name.toLowerCase().includes(t.toLowerCase())));
         } else if (currentFilter === 'my-apps') {
             filtered = filtered.filter(c => {
-                const status = userStatuses[c.id];
+                const status = userStatuses[c.name];
                 return status && status !== "To Do";
             });
         }
         
-        // Apply Sort
-        const sortVal = document.getElementById('sortSelect').value;
+        const sortVal = sortSelect.value;
         filtered.sort((a, b) => {
             if (sortVal === 'expectedOpening') {
-                return (a.sortMonth || 99) - (b.sortMonth || 99);
+                return (a.expectedOpening || '2099-01-01').localeCompare(b.expectedOpening || '2099-01-01');
             } else if (sortVal === 'name') {
                 return a.name.localeCompare(b.name);
             } else if (sortVal === 'myStatus') {
                 const priority = { "Interviewing": 1, "To Do": 2, "Applied": 3, "Offer": 4, "Rejected": 5 };
-                const sA = userStatuses[a.id] || "To Do";
-                const sB = userStatuses[b.id] || "To Do";
+                const sA = userStatuses[a.name] || "To Do";
+                const sB = userStatuses[b.name] || "To Do";
                 return priority[sA] - priority[sB];
             }
             return 0;
         });
 
         renderCards(filtered);
-    }
+    };
 
-    // Event Listeners
-    document.getElementById('searchInput').addEventListener('input', applyFilters);
-    document.getElementById('sortSelect').addEventListener('change', applyFilters);
+    searchInput.addEventListener('input', applyFilters);
+    sortSelect.addEventListener('change', applyFilters);
 
-    const chips = document.querySelectorAll('.filter-chip');
     chips.forEach(chip => {
         chip.addEventListener('click', (e) => {
             chips.forEach(c => c.classList.remove('active'));
@@ -221,7 +217,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Initial Render
     updateTime();
     applyFilters();
     updateDashboard();
