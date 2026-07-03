@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     <div class="detail-group">
                         <span class="detail-label">Signals</span>
-                        <span class="detail-value">${company.signals || 'None'}</span>
+                        <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">Source: Industry Trend Projection (AI)</span>
                     </div>
 
                     <div class="personal-tracking">

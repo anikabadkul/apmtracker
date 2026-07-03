@@ -4,3249 +4,3249 @@ const companies = [
     "name": "Adobe",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.adobe.com",
-    "expectedOpening": "2027-01-13",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.966Z",
-    "lastYearOpened": "2026-01-13"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "adobe--mba-",
     "name": "Adobe (MBA)",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.adobe.com",
-    "expectedOpening": "2027-01-13",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.975Z",
-    "lastYearOpened": "2026-01-13"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "airbnb",
     "name": "Airbnb",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.airbnb.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.airbnb.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "amazon",
     "name": "Amazon",
     "program": "Product Management (APM / Intern)",
     "domain": "amazon.jobs",
-    "expectedOpening": "2027-01-20",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://amazon.jobs",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "2026-01-20"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "american-express",
     "name": "American Express",
     "program": "Product Management (APM / Intern)",
     "domain": "aexp.eightfold.ai",
-    "expectedOpening": "2026-12-10",
+    "expectedOpening": "2026-08-05",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://aexp.eightfold.ai",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "2025-12-10"
+    "lastYearOpened": "2025-08-05"
   },
   {
     "id": "appian",
     "name": "Appian",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.appian.com",
-    "expectedOpening": "2027-04-15",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 4,
     "signals": "Source: Official Career Site",
     "link": "https://careers.appian.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "2026-04-15"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "arcade-ai",
     "name": "Arcade AI",
     "program": "Product Management (APM / Intern)",
     "domain": "arcade.ai",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://arcade.ai",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "asana",
     "name": "Asana",
     "program": "Product Management (APM / Intern)",
     "domain": "asana.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://asana.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "atlassian",
     "name": "Atlassian",
     "program": "Product Management (APM / Intern)",
     "domain": "atlassian.com",
-    "expectedOpening": "2026-09-20",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://atlassian.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.976Z",
-    "lastYearOpened": "2025-09-20"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "blackrock",
     "name": "Blackrock",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.blackrock.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.blackrock.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.977Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "bytedance",
     "name": "Bytedance",
     "program": "Product Management (APM / Intern)",
     "domain": "joinbytedance.com",
-    "expectedOpening": "2026-08-12",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://joinbytedance.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-12"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "capitalone",
     "name": "CapitalOne",
     "program": "Product Management (APM / Intern)",
     "domain": "capitalonecareers.com",
-    "expectedOpening": "2026-07-08",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 7,
     "signals": "Source: Official Career Site",
     "link": "https://capitalonecareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-07-08"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "cisco",
     "name": "Cisco",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.cisco.com",
-    "expectedOpening": "2026-11-18",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://careers.cisco.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-11-18"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "citrix",
     "name": "Citrix",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.cloud.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.cloud.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "coinbase",
     "name": "Coinbase",
     "program": "Product Management (APM / Intern)",
     "domain": "coinbase.com",
-    "expectedOpening": "2026-12-07",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://coinbase.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-12-07"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "databricks",
     "name": "Databricks",
     "program": "Product Management (APM / Intern)",
     "domain": "databricks.com",
-    "expectedOpening": "2026-08-19",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://databricks.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-19"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "doordash",
     "name": "DoorDash",
     "program": "Product Management (APM / Intern)",
     "domain": "linkedin.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "dropbox",
     "name": "Dropbox",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.dropbox.com",
-    "expectedOpening": "2027-02-11",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.dropbox.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-11"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "duolingo",
     "name": "Duolingo",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.duolingo.com",
-    "expectedOpening": "2026-08-28",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.duolingo.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-28"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "ebay",
     "name": "Ebay",
     "program": "Product Management (APM / Intern)",
     "domain": "app.ripplematch.com",
-    "expectedOpening": "2027-02-10",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://app.ripplematch.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-10"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "electronic-arts--ea-",
     "name": "Electronic Arts (EA)",
     "program": "Product Management (APM / Intern)",
     "domain": "ea.gr8people.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ea.gr8people.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "expedia-group",
     "name": "Expedia Group",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.expediagroup.com",
-    "expectedOpening": "2027-02-12",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.expediagroup.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-12"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "figma",
     "name": "Figma",
     "program": "Product Management (APM / Intern)",
     "domain": "figma.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://figma.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "google",
     "name": "Google",
     "program": "Product Management (APM / Intern)",
     "domain": "google.com",
-    "expectedOpening": "2026-09-19",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-19"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "google--apmm-",
     "name": "Google (APMM)",
     "program": "Product Management (APM / Intern)",
     "domain": "google.com",
-    "expectedOpening": "2026-09-19",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-19"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "indeed",
     "name": "Indeed",
     "program": "Product Management (APM / Intern)",
     "domain": "indeed.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://indeed.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "instacart",
     "name": "Instacart",
     "program": "Product Management (APM / Intern)",
     "domain": "instacart.careers",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://instacart.careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "intuit",
     "name": "Intuit",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.intuit.com",
-    "expectedOpening": "2026-09-01",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.intuit.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-01"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "ixl-learning",
     "name": "IXL Learning",
     "program": "Product Management (APM / Intern)",
     "domain": "ixl.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ixl.com",
     "status": "Open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "kleiner-perkins-fellows",
     "name": "Kleiner Perkins Fellows",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.ashbyhq.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "lenovo",
     "name": "Lenovo",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.lenovo.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.lenovo.com",
     "status": "Open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "linkedin",
     "name": "LinkedIn",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.linkedin.com",
-    "expectedOpening": "2026-08-09",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.linkedin.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-09"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "lyft",
     "name": "Lyft",
     "program": "Product Management (APM / Intern)",
     "domain": "lyft.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://lyft.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "mastercard",
     "name": "Mastercard",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.mastercard.com",
-    "expectedOpening": "2026-09-01",
+    "expectedOpening": "2026-08-05",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://careers.mastercard.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-01"
+    "lastYearOpened": "2025-08-05"
   },
   {
     "id": "meta",
     "name": "Meta",
     "program": "Product Management (APM / Intern)",
     "domain": "metacareers.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "microsoft",
     "name": "Microsoft",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.careers.microsoft.com",
-    "expectedOpening": "2026-08-15",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-15"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "miro",
     "name": "Miro",
     "program": "Product Management (APM / Intern)",
     "domain": "miro.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://miro.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "mojang",
     "name": "Mojang",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.careers.microsoft.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "mozilla",
     "name": "Mozilla",
     "program": "Product Management (APM / Intern)",
     "domain": "mozilla.org",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://mozilla.org",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "notion",
     "name": "Notion",
     "program": "Product Management (APM / Intern)",
     "domain": "notion.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://notion.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "okx",
     "name": "OKX",
     "program": "Product Management (APM / Intern)",
     "domain": "job-boards.greenhouse.io",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "paypal",
     "name": "PayPal",
     "program": "Product Management (APM / Intern)",
     "domain": "paypal.eightfold.ai",
-    "expectedOpening": "2026-09-23",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://paypal.eightfold.ai",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-23"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "perplexity",
     "name": "Perplexity",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.ashbyhq.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "pinterest",
     "name": "Pinterest",
     "program": "Product Management (APM / Intern)",
     "domain": "pinterestcareers.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://pinterestcareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "red-hat",
     "name": "Red Hat",
     "program": "Product Management (APM / Intern)",
     "domain": "redhat.wd5.myworkdayjobs.com",
-    "expectedOpening": "2027-01-28",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://redhat.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-01-28"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "reddit",
     "name": "Reddit",
     "program": "Product Management (APM / Intern)",
     "domain": "boards.greenhouse.io",
-    "expectedOpening": "2027-02-05",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-05"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "robinhood",
     "name": "Robinhood",
     "program": "Product Management (APM / Intern)",
     "domain": "boards.greenhouse.io",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "roblox",
     "name": "Roblox",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.roblox.com",
-    "expectedOpening": "2026-11-08",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://careers.roblox.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-11-08"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "salesforce",
     "name": "Salesforce",
     "program": "Product Management (APM / Intern)",
     "domain": "salesforce.wd12.myworkdayjobs.com",
-    "expectedOpening": "2026-07-08",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 7,
     "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-07-08"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "samsara",
     "name": "Samsara",
     "program": "Product Management (APM / Intern)",
     "domain": "samsara.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://samsara.com",
     "status": "Open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "scale-ai",
     "name": "Scale AI",
     "program": "Product Management (APM / Intern)",
     "domain": "job-boards.greenhouse.io",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "schmidt-futures",
     "name": "Schmidt Futures",
     "program": "Product Management (APM / Intern)",
     "domain": "schmidtfutures.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://schmidtfutures.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "shopify",
     "name": "Shopify",
     "program": "Product Management (APM / Intern)",
     "domain": "shopify.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://shopify.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "sierra-ai",
     "name": "Sierra AI",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.ashbyhq.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "snap",
     "name": "Snap",
     "program": "Product Management (APM / Intern)",
     "domain": "wd1.myworkdaysite.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://wd1.myworkdaysite.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "spotify",
     "name": "Spotify",
     "program": "Product Management (APM / Intern)",
     "domain": "lifeatspotify.com",
-    "expectedOpening": "2027-02-19",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://lifeatspotify.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-19"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "square",
     "name": "Square",
     "program": "Product Management (APM / Intern)",
     "domain": "block.xyz",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://block.xyz",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "stripe",
     "name": "Stripe",
     "program": "Product Management (APM / Intern)",
     "domain": "stripe.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://stripe.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "stubhub",
     "name": "Stubhub",
     "program": "Product Management (APM / Intern)",
     "domain": "job-boards.eu.greenhouse.io",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.eu.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "tesla",
     "name": "Tesla",
     "program": "Product Management (APM / Intern)",
     "domain": "tesla.com",
-    "expectedOpening": "2027-01-06",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://tesla.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-01-06"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "tiktok",
     "name": "TikTok",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.tiktok.com",
-    "expectedOpening": "2026-08-12",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.tiktok.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-08-12"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "uber",
     "name": "Uber",
     "program": "Product Management (APM / Intern)",
     "domain": "uber.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://uber.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "visa",
     "name": "Visa",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.smartrecruiters.com",
-    "expectedOpening": "2027-03-09",
+    "expectedOpening": "2026-08-05",
     "sortMonth": 3,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.smartrecruiters.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-03-09"
+    "lastYearOpened": "2025-08-05"
   },
   {
     "id": "warner-bros",
     "name": "Warner Bros",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.wbd.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.wbd.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "workday",
     "name": "Workday",
     "program": "Product Management (APM / Intern)",
     "domain": "workday.wd5.myworkdayjobs.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://workday.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "x--twitter-",
     "name": "X (Twitter)",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.x.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.x.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "yahoo",
     "name": "Yahoo",
     "program": "Product Management (APM / Intern)",
     "domain": "yahooinc.com",
-    "expectedOpening": "2027-02-11",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://yahooinc.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-11"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "zynga",
     "name": "Zynga",
     "program": "Product Management (APM / Intern)",
     "domain": "zynga.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://zynga.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "apple",
     "name": "Apple",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.apple.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.apple.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "cloudflare",
     "name": "Cloudflare",
     "program": "Product Management (APM / Intern)",
     "domain": "job-boards.greenhouse.io",
-    "expectedOpening": "2026-11-19",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-11-19"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "crowdstrike",
     "name": "CrowdStrike",
     "program": "Product Management (APM / Intern)",
     "domain": "crowdstrike.wd5.myworkdayjobs.com",
-    "expectedOpening": "2027-02-21",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://crowdstrike.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2026-02-21"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "datadog",
     "name": "DataDog",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.datadoghq.com",
-    "expectedOpening": "2026-09-09",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://careers.datadoghq.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.978Z",
-    "lastYearOpened": "2025-09-09"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "disney",
     "name": "Disney",
     "program": "Product Management (APM / Intern)",
     "domain": "disney.wd5.myworkdayjobs.com",
-    "expectedOpening": "2026-12-12",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://disney.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-12-12"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "github",
     "name": "Github",
     "program": "Product Management (APM / Intern)",
     "domain": "githubinc.jibeapply.com",
-    "expectedOpening": "2027-02-18",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://githubinc.jibeapply.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-02-18"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "hewlett-packard-enterprise",
     "name": "Hewlett Packard Enterprise",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.hpe.com",
-    "expectedOpening": "2026-11-14",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://careers.hpe.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-11-14"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "ibm",
     "name": "IBM",
     "program": "Product Management (APM / Intern)",
     "domain": "ibmglobal.avature.net",
-    "expectedOpening": "2026-09-11",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://ibmglobal.avature.net",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-09-11"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "jane-street",
     "name": "Jane Street",
     "program": "Product Management (APM / Intern)",
     "domain": "janestreet.com",
-    "expectedOpening": "2026-06-13",
+    "expectedOpening": "2026-08-05",
     "sortMonth": 6,
     "signals": "Source: Official Career Site",
     "link": "https://janestreet.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-06-13"
+    "lastYearOpened": "2025-08-05"
   },
   {
     "id": "masterclass",
     "name": "Masterclass",
     "program": "Product Management (APM / Intern)",
     "domain": "linkedin.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "mongodb",
     "name": "MongoDB",
     "program": "Product Management (APM / Intern)",
     "domain": "mongodb.com",
-    "expectedOpening": "2027-02-23",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://mongodb.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-02-23"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "nike--grad-",
     "name": "Nike (Grad)",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.nike.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.nike.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "nvidia",
     "name": "Nvidia",
     "program": "Product Management (APM / Intern)",
     "domain": "nvidia.wd5.myworkdayjobs.com",
-    "expectedOpening": "2026-12-12",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://nvidia.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-12-12"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "okta--mba-",
     "name": "Okta (MBA)",
     "program": "Product Management (APM / Intern)",
     "domain": "okta.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "oracle",
     "name": "Oracle",
     "program": "Product Management (APM / Intern)",
     "domain": "eeho.fa.us2.oraclecloud.com",
-    "expectedOpening": "2026-11-06",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://eeho.fa.us2.oraclecloud.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-11-06"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "qualcomm",
     "name": "Qualcomm",
     "program": "Product Management (APM / Intern)",
     "domain": "app.eightfold.ai",
-    "expectedOpening": "2026-10-20",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 10,
     "signals": "Source: Official Career Site",
     "link": "https://app.eightfold.ai",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-10-20"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "rakuten",
     "name": "Rakuten",
     "program": "Product Management (APM / Intern)",
     "domain": "rakuten.wd1.myworkdayjobs.com",
-    "expectedOpening": "2027-01-27",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://rakuten.wd1.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-01-27"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "sap",
     "name": "SAP",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.sap.com",
-    "expectedOpening": "2027-01-09",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.sap.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-01-09"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "servicenow",
     "name": "ServiceNow",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.servicenow.com",
-    "expectedOpening": "2026-09-15",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://careers.servicenow.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2025-09-15"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "slack",
     "name": "Slack",
     "program": "Product Management (APM / Intern)",
     "domain": "salesforce.wd12.myworkdayjobs.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "snowflake",
     "name": "Snowflake",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.ashbyhq.com",
-    "expectedOpening": "2027-04-03",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 4,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-04-03"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "splunk",
     "name": "Splunk",
     "program": "Product Management (APM / Intern)",
     "domain": "splunk.com",
-    "expectedOpening": "2027-01-07",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://splunk.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-01-07"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "tencent",
     "name": "Tencent",
     "program": "Product Management (APM / Intern)",
     "domain": "tencent.wd1.myworkdayjobs.com",
-    "expectedOpening": "2027-04-01",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 4,
     "signals": "Source: Official Career Site",
     "link": "https://tencent.wd1.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-04-01"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "the-trade-desk",
     "name": "The Trade Desk",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.thetradedesk.com",
-    "expectedOpening": "2027-02-10",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.thetradedesk.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-02-10"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "tinder",
     "name": "Tinder",
     "program": "Product Management (APM / Intern)",
     "domain": "join.matchgroupcareers.com",
-    "expectedOpening": "2027-03-04",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 3,
     "signals": "Source: Official Career Site",
     "link": "https://join.matchgroupcareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-03-04"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "walmart",
     "name": "Walmart",
     "program": "Product Management (APM / Intern)",
     "domain": "walmart.wd5.myworkdayjobs.com",
-    "expectedOpening": "2027-01-15",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://walmart.wd5.myworkdayjobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:35:24.979Z",
-    "lastYearOpened": "2026-01-15"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "plaid",
     "name": "Plaid",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.lever.co",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Open",
     "lastChecked": "2026-07-03T20:36:05.302Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "warner-music-group",
     "name": "Warner Music Group",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.lever.co",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Open",
     "lastChecked": "2026-07-03T20:36:05.314Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "the-home-depot",
     "name": "The Home Depot",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.homedepot.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.homedepot.com",
     "status": "Open",
     "lastChecked": "2026-07-03T20:36:05.314Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "seatgeak",
     "name": "SeatGeak",
     "program": "Product Management (APM / Intern)",
     "domain": "seatgeek.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://seatgeek.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.314Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "zoom",
     "name": "Zoom",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.zoom.com",
-    "expectedOpening": "2027-02-21",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.zoom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.315Z",
-    "lastYearOpened": "2026-02-21"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "s-amp-p-global",
     "name": "S&amp;P Global",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.samppglobal.com",
-    "expectedOpening": "2026-12-04",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://careers.samppglobal.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.315Z",
-    "lastYearOpened": "2025-12-04"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "warner-bros--discovery",
     "name": "Warner Bros. Discovery",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.warnerbrosdiscovery.com",
-    "expectedOpening": "2027-02-25",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.warnerbrosdiscovery.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.315Z",
-    "lastYearOpened": "2026-02-25"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "invesco",
     "name": "Invesco",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.invesco.com",
-    "expectedOpening": "2027-02-17",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.invesco.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.315Z",
-    "lastYearOpened": "2026-02-17"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "experian",
     "name": "Experian",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.experian.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.experian.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.315Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "t-mobile",
     "name": "T-Mobile",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.tmobile.com",
-    "expectedOpening": "2026-12-21",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://careers.tmobile.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.316Z",
-    "lastYearOpened": "2025-12-21"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "palo-alto-networks",
     "name": "Palo Alto Networks",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.paloaltonetworks.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.paloaltonetworks.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.316Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "poshmark",
     "name": "Poshmark",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.poshmark.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.poshmark.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.316Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "seatgeek",
     "name": "SeatGeek",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.seatgeek.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.seatgeek.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.316Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "kpcb-fellows",
     "name": "KPCB Fellows",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.kpcbfellows.com",
-    "expectedOpening": "2027-02-24",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://careers.kpcbfellows.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.316Z",
-    "lastYearOpened": "2026-02-24"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "optum",
     "name": "Optum",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.optum.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.optum.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "jetblue",
     "name": "JetBlue",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.jetblue.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.jetblue.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "american-airlines",
     "name": "American Airlines",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.aa.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.aa.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "new-balance",
     "name": "New Balance",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.newbalance.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.newbalance.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "wells-fargo",
     "name": "Wells Fargo",
     "program": "Product Management (APM / Intern)",
     "domain": "wellsfargojobs.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://wellsfargojobs.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "sam--x27-s-club",
     "name": "Sam&#x27;s Club",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.walmart.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.walmart.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "draftkings",
     "name": "DraftKings",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.draftkings.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.draftkings.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.317Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "meta--facebook-",
     "name": "Meta (Facebook)",
     "program": "Product Management (APM / Intern)",
     "domain": "metacareers.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-08-25",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-08-25"
   },
   {
     "id": "arcade",
     "name": "Arcade",
     "program": "Product Management (APM / Intern)",
     "domain": "jobs.lever.co",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "rippling",
     "name": "Rippling",
     "program": "Product Management (APM / Intern)",
     "domain": "ats.rippling.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ats.rippling.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "pnc",
     "name": "PNC",
     "program": "Product Management (APM / Intern)",
     "domain": "careers.pnc.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://careers.pnc.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "capital-one",
     "name": "Capital One",
     "program": "Product Management (APM / Intern)",
     "domain": "capitalonecareers.com",
-    "expectedOpening": "2026-07-08",
+    "expectedOpening": "2026-08-05",
     "sortMonth": 7,
     "signals": "Source: Official Career Site",
     "link": "https://capitalonecareers.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "2025-07-08"
+    "lastYearOpened": "2025-08-05"
   },
   {
     "id": "your-company-here",
     "name": "Your Company Here",
     "program": "Product Management (APM / Intern)",
     "domain": "linkedin.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:05.319Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "netflix",
     "name": "Netflix",
     "program": "Product Management (APM / Intern)",
     "domain": "netflix.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://netflix.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.266Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "discord",
     "name": "Discord",
     "program": "Product Management (APM / Intern)",
     "domain": "discord.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://discord.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "epic-games",
     "name": "Epic Games",
     "program": "Product Management (APM / Intern)",
     "domain": "epicgames.com",
-    "expectedOpening": "2026-11-07",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://epicgames.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "2025-11-07"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "twitch",
     "name": "Twitch",
     "program": "Product Management (APM / Intern)",
     "domain": "twitch.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://twitch.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "roku",
     "name": "Roku",
     "program": "Product Management (APM / Intern)",
     "domain": "roku.com",
-    "expectedOpening": "2027-03-21",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 3,
     "signals": "Source: Official Career Site",
     "link": "https://roku.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "2026-03-21"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "peloton",
     "name": "Peloton",
     "program": "Product Management (APM / Intern)",
     "domain": "peloton.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://peloton.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "zillow",
     "name": "Zillow",
     "program": "Product Management (APM / Intern)",
     "domain": "zillow.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://zillow.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "redfin",
     "name": "Redfin",
     "program": "Product Management (APM / Intern)",
     "domain": "redfin.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://redfin.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "opendoor",
     "name": "Opendoor",
     "program": "Product Management (APM / Intern)",
     "domain": "opendoor.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://opendoor.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "compass",
     "name": "Compass",
     "program": "Product Management (APM / Intern)",
     "domain": "compass.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://compass.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "affirm",
     "name": "Affirm",
     "program": "Product Management (APM / Intern)",
     "domain": "affirm.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://affirm.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "klarna",
     "name": "Klarna",
     "program": "Product Management (APM / Intern)",
     "domain": "klarna.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://klarna.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "chime",
     "name": "Chime",
     "program": "Product Management (APM / Intern)",
     "domain": "chime.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://chime.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "brex",
     "name": "Brex",
     "program": "Product Management (APM / Intern)",
     "domain": "brex.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://brex.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "ramp",
     "name": "Ramp",
     "program": "Product Management (APM / Intern)",
     "domain": "ramp.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ramp.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "gusto",
     "name": "Gusto",
     "program": "Product Management (APM / Intern)",
     "domain": "gusto.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://gusto.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "deel",
     "name": "Deel",
     "program": "Product Management (APM / Intern)",
     "domain": "deel.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://deel.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "canva",
     "name": "Canva",
     "program": "Product Management (APM / Intern)",
     "domain": "canva.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2026-09-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://canva.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "airtable",
     "name": "Airtable",
     "program": "Product Management (APM / Intern)",
     "domain": "airtable.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://airtable.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "coda",
     "name": "Coda",
     "program": "Product Management (APM / Intern)",
     "domain": "coda.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://coda.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "monday-com",
     "name": "Monday.com",
     "program": "Product Management (APM / Intern)",
     "domain": "mondaycom.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://mondaycom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "smartsheet",
     "name": "Smartsheet",
     "program": "Product Management (APM / Intern)",
     "domain": "smartsheet.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://smartsheet.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "elastic",
     "name": "Elastic",
     "program": "Product Management (APM / Intern)",
     "domain": "elastic.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://elastic.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "confluent",
     "name": "Confluent",
     "program": "Product Management (APM / Intern)",
     "domain": "confluent.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://confluent.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "hashicorp",
     "name": "HashiCorp",
     "program": "Product Management (APM / Intern)",
     "domain": "hashicorp.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://hashicorp.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "okta",
     "name": "Okta",
     "program": "Product Management (APM / Intern)",
     "domain": "okta.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.276Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "fastly",
     "name": "Fastly",
     "program": "Product Management (APM / Intern)",
     "domain": "fastly.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://fastly.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "twilio",
     "name": "Twilio",
     "program": "Product Management (APM / Intern)",
     "domain": "twilio.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://twilio.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "sendgrid",
     "name": "SendGrid",
     "program": "Product Management (APM / Intern)",
     "domain": "sendgrid.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://sendgrid.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "messagebird",
     "name": "MessageBird",
     "program": "Product Management (APM / Intern)",
     "domain": "messagebird.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://messagebird.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "hubspot",
     "name": "HubSpot",
     "program": "Product Management (APM / Intern)",
     "domain": "hubspot.com",
-    "expectedOpening": "2026-09-07",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://hubspot.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "2025-09-07"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "zendesk",
     "name": "Zendesk",
     "program": "Product Management (APM / Intern)",
     "domain": "zendesk.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://zendesk.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "intercom",
     "name": "Intercom",
     "program": "Product Management (APM / Intern)",
     "domain": "intercom.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://intercom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "box",
     "name": "Box",
     "program": "Product Management (APM / Intern)",
     "domain": "box.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://box.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "docusign",
     "name": "DocuSign",
     "program": "Product Management (APM / Intern)",
     "domain": "docusign.com",
-    "expectedOpening": "2026-11-25",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://docusign.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "2025-11-25"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "autodesk",
     "name": "Autodesk",
     "program": "Product Management (APM / Intern)",
     "domain": "autodesk.com",
-    "expectedOpening": "2026-08-26",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://autodesk.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "2025-08-26"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "bigcommerce",
     "name": "BigCommerce",
     "program": "Product Management (APM / Intern)",
     "domain": "bigcommerce.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://bigcommerce.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "etsy",
     "name": "Etsy",
     "program": "Product Management (APM / Intern)",
     "domain": "etsy.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://etsy.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "wayfair",
     "name": "Wayfair",
     "program": "Product Management (APM / Intern)",
     "domain": "wayfair.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://wayfair.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "chewy",
     "name": "Chewy",
     "program": "Product Management (APM / Intern)",
     "domain": "chewy.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://chewy.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "grubhub",
     "name": "Grubhub",
     "program": "Product Management (APM / Intern)",
     "domain": "grubhub.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://grubhub.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "postmates",
     "name": "Postmates",
     "program": "Product Management (APM / Intern)",
     "domain": "postmates.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://postmates.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "expedia",
     "name": "Expedia",
     "program": "Product Management (APM / Intern)",
     "domain": "expedia.com",
-    "expectedOpening": "2027-02-12",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://expedia.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "2026-02-12"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "booking-com",
     "name": "Booking.com",
     "program": "Product Management (APM / Intern)",
     "domain": "bookingcom.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://bookingcom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "tripadvisor",
     "name": "TripAdvisor",
     "program": "Product Management (APM / Intern)",
     "domain": "tripadvisor.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://tripadvisor.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "kayak",
     "name": "Kayak",
     "program": "Product Management (APM / Intern)",
     "domain": "kayak.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://kayak.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "yelp",
     "name": "Yelp",
     "program": "Product Management (APM / Intern)",
     "domain": "yelp.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://yelp.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "opentable",
     "name": "OpenTable",
     "program": "Product Management (APM / Intern)",
     "domain": "opentable.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://opentable.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "eventbrite",
     "name": "Eventbrite",
     "program": "Product Management (APM / Intern)",
     "domain": "eventbrite.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://eventbrite.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "ticketmaster",
     "name": "Ticketmaster",
     "program": "Product Management (APM / Intern)",
     "domain": "ticketmaster.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ticketmaster.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "vimeo",
     "name": "Vimeo",
     "program": "Product Management (APM / Intern)",
     "domain": "vimeo.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://vimeo.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "alibaba",
     "name": "Alibaba",
     "program": "Product Management (APM / Intern)",
     "domain": "alibaba.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://alibaba.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "baidu",
     "name": "Baidu",
     "program": "Product Management (APM / Intern)",
     "domain": "baidu.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://baidu.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "jd-com",
     "name": "JD.com",
     "program": "Product Management (APM / Intern)",
     "domain": "jdcom.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://jdcom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "meituan",
     "name": "Meituan",
     "program": "Product Management (APM / Intern)",
     "domain": "meituan.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://meituan.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "didi",
     "name": "Didi",
     "program": "Product Management (APM / Intern)",
     "domain": "didi.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://didi.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "grab",
     "name": "Grab",
     "program": "Product Management (APM / Intern)",
     "domain": "grab.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://grab.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "gojek",
     "name": "Gojek",
     "program": "Product Management (APM / Intern)",
     "domain": "gojek.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://gojek.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "mercadolibre",
     "name": "MercadoLibre",
     "program": "Product Management (APM / Intern)",
     "domain": "mercadolibre.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://mercadolibre.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "nubank",
     "name": "Nubank",
     "program": "Product Management (APM / Intern)",
     "domain": "nubank.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://nubank.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "stone",
     "name": "Stone",
     "program": "Product Management (APM / Intern)",
     "domain": "stone.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://stone.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "pagseguro",
     "name": "PagSeguro",
     "program": "Product Management (APM / Intern)",
     "domain": "pagseguro.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://pagseguro.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "paytm",
     "name": "Paytm",
     "program": "Product Management (APM / Intern)",
     "domain": "paytm.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://paytm.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "flipkart",
     "name": "Flipkart",
     "program": "Product Management (APM / Intern)",
     "domain": "flipkart.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://flipkart.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "ola",
     "name": "Ola",
     "program": "Product Management (APM / Intern)",
     "domain": "ola.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ola.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "swiggy",
     "name": "Swiggy",
     "program": "Product Management (APM / Intern)",
     "domain": "swiggy.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://swiggy.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "zomato",
     "name": "Zomato",
     "program": "Product Management (APM / Intern)",
     "domain": "zomato.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://zomato.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "vmware",
     "name": "VMware",
     "program": "Product Management (APM / Intern)",
     "domain": "vmware.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://vmware.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "intel",
     "name": "Intel",
     "program": "Product Management (APM / Intern)",
     "domain": "intel.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://intel.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "amd",
     "name": "AMD",
     "program": "Product Management (APM / Intern)",
     "domain": "amd.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://amd.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "broadcom",
     "name": "Broadcom",
     "program": "Product Management (APM / Intern)",
     "domain": "broadcom.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://broadcom.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "texas-instruments",
     "name": "Texas Instruments",
     "program": "Product Management (APM / Intern)",
     "domain": "texasinstruments.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://texasinstruments.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "micron",
     "name": "Micron",
     "program": "Product Management (APM / Intern)",
     "domain": "micron.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://micron.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "applied-materials",
     "name": "Applied Materials",
     "program": "Product Management (APM / Intern)",
     "domain": "appliedmaterials.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://appliedmaterials.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.277Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "asml",
     "name": "ASML",
     "program": "Product Management (APM / Intern)",
     "domain": "asml.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://asml.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "tsmc",
     "name": "TSMC",
     "program": "Product Management (APM / Intern)",
     "domain": "tsmc.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://tsmc.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "samsung",
     "name": "Samsung",
     "program": "Product Management (APM / Intern)",
     "domain": "samsung.com",
-    "expectedOpening": "2026-12-18",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://samsung.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "2025-12-18"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "sony",
     "name": "Sony",
     "program": "Product Management (APM / Intern)",
     "domain": "sony.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://sony.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "lg",
     "name": "LG",
     "program": "Product Management (APM / Intern)",
     "domain": "lg.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://lg.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "panasonic",
     "name": "Panasonic",
     "program": "Product Management (APM / Intern)",
     "domain": "panasonic.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://panasonic.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "philips",
     "name": "Philips",
     "program": "Product Management (APM / Intern)",
     "domain": "philips.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://philips.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "siemens",
     "name": "Siemens",
     "program": "Product Management (APM / Intern)",
     "domain": "siemens.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://siemens.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "ge",
     "name": "GE",
     "program": "Product Management (APM / Intern)",
     "domain": "ge.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://ge.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "honeywell",
     "name": "Honeywell",
     "program": "Product Management (APM / Intern)",
     "domain": "honeywell.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://honeywell.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "3m",
     "name": "3M",
     "program": "Product Management (APM / Intern)",
     "domain": "3m.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://3m.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "dupont",
     "name": "DuPont",
     "program": "Product Management (APM / Intern)",
     "domain": "dupont.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://dupont.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "dow",
     "name": "Dow",
     "program": "Product Management (APM / Intern)",
     "domain": "dow.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://dow.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "basf",
     "name": "BASF",
     "program": "Product Management (APM / Intern)",
     "domain": "basf.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://basf.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "bayer",
     "name": "Bayer",
     "program": "Product Management (APM / Intern)",
     "domain": "bayer.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://bayer.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "johnson---johnson",
     "name": "Johnson & Johnson",
     "program": "Product Management (APM / Intern)",
     "domain": "johnsonjohnson.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://johnsonjohnson.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "pfizer",
     "name": "Pfizer",
     "program": "Product Management (APM / Intern)",
     "domain": "pfizer.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://pfizer.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.278Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "merck",
     "name": "Merck",
     "program": "Product Management (APM / Intern)",
     "domain": "merck.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://merck.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "novartis",
     "name": "Novartis",
     "program": "Product Management (APM / Intern)",
     "domain": "novartis.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://novartis.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "roche",
     "name": "Roche",
     "program": "Product Management (APM / Intern)",
     "domain": "roche.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://roche.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "sanofi",
     "name": "Sanofi",
     "program": "Product Management (APM / Intern)",
     "domain": "sanofi.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://sanofi.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "glaxosmithkline",
     "name": "GlaxoSmithKline",
     "program": "Product Management (APM / Intern)",
     "domain": "glaxosmithkline.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://glaxosmithkline.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "astrazeneca",
     "name": "AstraZeneca",
     "program": "Product Management (APM / Intern)",
     "domain": "astrazeneca.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://astrazeneca.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "abbott",
     "name": "Abbott",
     "program": "Product Management (APM / Intern)",
     "domain": "abbott.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://abbott.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "medtronic",
     "name": "Medtronic",
     "program": "Product Management (APM / Intern)",
     "domain": "medtronic.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://medtronic.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "boston-scientific",
     "name": "Boston Scientific",
     "program": "Product Management (APM / Intern)",
     "domain": "bostonscientific.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://bostonscientific.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "stryker",
     "name": "Stryker",
     "program": "Product Management (APM / Intern)",
     "domain": "stryker.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://stryker.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "becton-dickinson",
     "name": "Becton Dickinson",
     "program": "Product Management (APM / Intern)",
     "domain": "bectondickinson.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://bectondickinson.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "baxter",
     "name": "Baxter",
     "program": "Product Management (APM / Intern)",
     "domain": "baxter.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://baxter.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "danaher",
     "name": "Danaher",
     "program": "Product Management (APM / Intern)",
     "domain": "danaher.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://danaher.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "thermo-fisher",
     "name": "Thermo Fisher",
     "program": "Product Management (APM / Intern)",
     "domain": "thermofisher.com",
-    "expectedOpening": "2027-01-13",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://thermofisher.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "2026-01-13"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "illumina",
     "name": "Illumina",
     "program": "Product Management (APM / Intern)",
     "domain": "illumina.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://illumina.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "agilent",
     "name": "Agilent",
     "program": "Product Management (APM / Intern)",
     "domain": "agilent.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://agilent.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "perkinelmer",
     "name": "PerkinElmer",
     "program": "Product Management (APM / Intern)",
     "domain": "perkinelmer.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://perkinelmer.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.279Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "waters",
     "name": "Waters",
     "program": "Product Management (APM / Intern)",
     "domain": "waters.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://waters.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.280Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "mettler-toledo",
     "name": "Mettler Toledo",
     "program": "Product Management (APM / Intern)",
     "domain": "mettlertoledo.com",
-    "expectedOpening": "Follows tech cycle",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 8,
     "signals": "Source: Official Career Site",
     "link": "https://mettlertoledo.com",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:36:26.280Z",
-    "lastYearOpened": "NaN-NaN-NaN"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "henkel",
     "name": "Henkel",
     "program": "Product Management (APM / Intern)",
     "domain": "henkel.com",
-    "expectedOpening": "2026-09-12",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 9,
     "signals": "Source: Official Career Site",
     "link": "https://www.henkel.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.143Z",
-    "lastYearOpened": "2025-09-12"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "procter-amp-gamble",
     "name": "Procter &amp; Gamble",
     "program": "Product Management (APM / Intern)",
     "domain": "procterampgamble.com",
-    "expectedOpening": "2026-11-20",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 11,
     "signals": "Source: Official Career Site",
     "link": "https://www.procterampgamble.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.167Z",
-    "lastYearOpened": "2025-11-20"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "dassault-systemes",
     "name": "Dassault Systemes",
     "program": "Product Management (APM / Intern)",
     "domain": "dassaultsystemes.com",
-    "expectedOpening": "2026-12-02",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://www.dassaultsystemes.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.167Z",
-    "lastYearOpened": "2025-12-02"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "nbcuniversal",
     "name": "NBCUniversal",
     "program": "Product Management (APM / Intern)",
     "domain": "nbcuniversal.com",
-    "expectedOpening": "2026-12-03",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://www.nbcuniversal.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.167Z",
-    "lastYearOpened": "2025-12-03"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "ulta-beauty",
     "name": "Ulta Beauty",
     "program": "Product Management (APM / Intern)",
     "domain": "ultabeauty.com",
-    "expectedOpening": "2026-12-05",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://www.ultabeauty.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2025-12-05"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "illumio",
     "name": "Illumio",
     "program": "Product Management (APM / Intern)",
     "domain": "illumio.com",
-    "expectedOpening": "2026-12-16",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 12,
     "signals": "Source: Official Career Site",
     "link": "https://www.illumio.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2025-12-16"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "glean",
     "name": "Glean",
     "program": "Product Management (APM / Intern)",
     "domain": "glean.com",
-    "expectedOpening": "2027-01-08",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.glean.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2026-01-08"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "nasdaq",
     "name": "Nasdaq",
     "program": "Product Management (APM / Intern)",
     "domain": "nasdaq.com",
-    "expectedOpening": "2027-01-14",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.nasdaq.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2026-01-14"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "corsair",
     "name": "Corsair",
     "program": "Product Management (APM / Intern)",
     "domain": "corsair.com",
-    "expectedOpening": "2027-01-21",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.corsair.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2026-01-21"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "snorkel-ai",
     "name": "Snorkel AI",
     "program": "Product Management (APM / Intern)",
     "domain": "snorkelai.com",
-    "expectedOpening": "2027-01-21",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.snorkelai.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.168Z",
-    "lastYearOpened": "2026-01-21"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "gemini",
     "name": "Gemini",
     "program": "Product Management (APM / Intern)",
     "domain": "gemini.com",
-    "expectedOpening": "2027-01-22",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.gemini.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.170Z",
-    "lastYearOpened": "2026-01-22"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "workiva",
     "name": "Workiva",
     "program": "Product Management (APM / Intern)",
     "domain": "workiva.com",
-    "expectedOpening": "2027-01-28",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 1,
     "signals": "Source: Official Career Site",
     "link": "https://www.workiva.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.171Z",
-    "lastYearOpened": "2026-01-28"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "paramount",
     "name": "Paramount",
     "program": "Product Management (APM / Intern)",
     "domain": "paramount.com",
-    "expectedOpening": "2027-02-04",
+    "expectedOpening": "2027-02-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://www.paramount.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.172Z",
-    "lastYearOpened": "2026-02-04"
+    "lastYearOpened": "2026-02-01"
   },
   {
     "id": "uipath",
     "name": "UiPath",
     "program": "Product Management (APM / Intern)",
     "domain": "uipath.com",
-    "expectedOpening": "2027-02-18",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://www.uipath.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.172Z",
-    "lastYearOpened": "2026-02-18"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "activision-blizzard",
     "name": "Activision-Blizzard",
     "program": "Product Management (APM / Intern)",
     "domain": "activisionblizzard.com",
-    "expectedOpening": "2027-02-21",
+    "expectedOpening": "2027-03-01",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://www.activisionblizzard.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.172Z",
-    "lastYearOpened": "2026-02-21"
+    "lastYearOpened": "2026-03-01"
   },
   {
     "id": "king",
     "name": "King",
     "program": "Product Management (APM / Intern)",
     "domain": "king.com",
-    "expectedOpening": "2027-02-21",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://www.king.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.173Z",
-    "lastYearOpened": "2026-02-21"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "zoox",
     "name": "Zoox",
     "program": "Product Management (APM / Intern)",
     "domain": "zoox.com",
-    "expectedOpening": "2027-02-21",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 2,
     "signals": "Source: Official Career Site",
     "link": "https://www.zoox.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.173Z",
-    "lastYearOpened": "2026-02-21"
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "circle",
     "name": "Circle",
     "program": "Product Management (APM / Intern)",
     "domain": "circle.com",
-    "expectedOpening": "2027-03-21",
+    "expectedOpening": "2027-02-15",
     "sortMonth": 3,
     "signals": "Source: Official Career Site",
     "link": "https://www.circle.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.173Z",
-    "lastYearOpened": "2026-03-21"
+    "lastYearOpened": "2026-02-15"
   },
   {
     "id": "fortinet",
     "name": "Fortinet",
     "program": "Product Management (APM / Intern)",
     "domain": "fortinet.com",
-    "expectedOpening": "2027-03-31",
+    "expectedOpening": "2027-01-15",
     "sortMonth": 3,
     "signals": "Source: Official Career Site",
     "link": "https://www.fortinet.com/careers",
     "status": "Not yet open",
     "lastChecked": "2026-07-03T20:48:56.173Z",
-    "lastYearOpened": "2026-03-31"
+    "lastYearOpened": "2026-01-15"
   }
 ];
