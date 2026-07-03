@@ -66,16 +66,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 datasets: [{
                     data: [open, pending, closed],
                     backgroundColor: [
-                        'rgba(74, 222, 128, 0.8)', // Green
-                        'rgba(148, 163, 184, 0.8)', // Gray
-                        'rgba(239, 68, 68, 0.8)'   // Red
+                        'rgba(0, 255, 204, 0.8)', // Neon Cyan
+                        'rgba(255, 255, 255, 0.1)', // Glass White
+                        'rgba(239, 68, 68, 0.8)'   // Neon Red
                     ],
                     borderColor: [
-                        '#0f172a',
-                        '#0f172a',
-                        '#0f172a'
+                        '#00ffcc',
+                        'rgba(255,255,255,0.2)',
+                        '#ef4444'
                     ],
-                    borderWidth: 4,
+                    borderWidth: 2,
                     hoverOffset: 4
                 }]
             },
@@ -86,8 +86,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     legend: {
                         position: 'right',
                         labels: {
-                            color: '#f8fafc',
-                            font: { family: 'Inter', size: 12 }
+                            color: '#ffffff',
+                            font: { family: 'Outfit', size: 14 }
                         }
                     }
                 },
