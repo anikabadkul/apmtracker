@@ -1,0 +1,39 @@
+name: APM Tracker Monitor
+
+on:
+  schedule:
+    # Runs at 14:00 UTC (10:00 AM EDT) every day
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write # Needed to commit changes back to the repo
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run monitoring script
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "APM Bot"
+          git config --global user.email "bot@apmtracker.local"
+          git add data.js
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update tracker status and timestamps" && git push)

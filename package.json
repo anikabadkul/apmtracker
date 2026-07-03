@@ -1,0 +1,13 @@
+{
+  "name": "apm-tracker-monitor",
+  "version": "1.0.0",
+  "description": "Scraper to check APM internship postings",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.13",
+    "puppeteer": "^22.6.0"
+  }
+}

@@ -1,0 +1,122 @@
+const companies = [
+  {
+    id: "salesforce",
+    name: "Salesforce",
+    program: "Associate Product Manager Intern",
+    domain: "salesforce.com",
+    expectedOpening: "June - July",
+    sortMonth: 6,
+    signals: "Futureforce talent community",
+    link: "https://www.salesforce.com/company/careers/university-recruiting/",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "meta",
+    name: "Meta",
+    program: "RPM / Product Management Intern",
+    domain: "meta.com",
+    expectedOpening: "Late August",
+    sortMonth: 8,
+    signals: "Meta University (for underclassmen)",
+    link: "https://www.metacareers.com/jobs/",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "amazon",
+    name: "Amazon",
+    program: "Product Manager – Technical Intern",
+    domain: "amazon.com",
+    expectedOpening: "August",
+    sortMonth: 8.1,
+    signals: "Handshake postings, Student Programs portal",
+    link: "https://www.amazon.jobs/en/landing_pages/student-programs",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "apple",
+    name: "Apple",
+    program: "Product Management / EPM Intern",
+    domain: "apple.com",
+    expectedOpening: "August - September",
+    sortMonth: 8.5,
+    signals: "Apple Talent Community",
+    link: "https://jobs.apple.com/en-us/search?search=Intern",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "microsoft",
+    name: "Microsoft",
+    program: "Product Management Intern",
+    domain: "microsoft.com",
+    expectedOpening: "August - September",
+    sortMonth: 8.6,
+    signals: "Microsoft Student Partners",
+    link: "https://jobs.careers.microsoft.com/global/en/students",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "uber",
+    name: "Uber",
+    program: "Associate Product Manager Intern",
+    domain: "uber.com",
+    expectedOpening: "August - September",
+    sortMonth: 8.7,
+    signals: "UberSTAR program",
+    link: "https://www.uber.com/us/en/careers/",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "linkedin",
+    name: "LinkedIn",
+    program: "Product Management Intern",
+    domain: "linkedin.com",
+    expectedOpening: "August - September",
+    sortMonth: 8.8,
+    signals: "LinkedIn Job Alerts",
+    link: "https://careers.linkedin.com/students",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "google",
+    name: "Google",
+    program: "Associate Product Manager Intern",
+    domain: "google.com",
+    expectedOpening: "September",
+    sortMonth: 9,
+    signals: "Campus recruiters",
+    link: "https://careers.google.com/students/",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "atlassian",
+    name: "Atlassian",
+    program: "Associate Product Manager Intern",
+    domain: "atlassian.com",
+    expectedOpening: "September",
+    sortMonth: 9.1,
+    signals: "Atlassian Student Talent Community",
+    link: "https://www.atlassian.com/company/careers/students",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  },
+  {
+    id: "stripe",
+    name: "Stripe",
+    program: "Product Manager Intern",
+    domain: "stripe.com",
+    expectedOpening: "September",
+    sortMonth: 9.2,
+    signals: "Direct application (highly selective)",
+    link: "https://stripe.com/jobs/",
+    status: "Not yet open",
+    lastChecked: new Date().toISOString()
+  }
+];
