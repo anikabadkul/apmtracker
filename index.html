@@ -6,77 +6,80 @@
     <title>APM/PM Internship Tracker</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <!-- Chart.js for Dashboard Visualizations -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <div class="background-elements">
-        <div class="glow-orb orb-1"></div>
-        <div class="glow-orb orb-2"></div>
-    </div>
-    
     <div class="container">
-        <header>
-            <div class="header-content">
-                <h1>Summer 2027 APM/PM Dashboard</h1>
-                <p>Stay ahead of the curve. Track application cycles and your personal progress for top-tier Product Management internships.</p>
-            </div>
-            <div class="controls">
-                <div class="last-updated">
-                    <span id="lastUpdatedText">Last updated: Just now</span>
+        <!-- BENTO HEADER -->
+        <header class="dashboard-header">
+            <div class="header-bento">
+                
+                <!-- Hero Card -->
+                <div class="hero-card">
+                    <h1>Summer 2027 APM/PM Dashboard</h1>
+                    <p class="subtitle">Track application cycles and monitor your progress for top-tier Product Management internships.</p>
+                    <div>
+                        <span class="last-updated" id="lastUpdatedText">Last updated: Just now</span>
+                    </div>
                 </div>
+
+                <!-- Metrics Card -->
+                <div class="metrics-card">
+                    <div class="metric-row">
+                        <span class="metric-label">Total Tracked</span>
+                        <span class="metric-value" id="totalCount">0</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="metric-label">My Applications</span>
+                        <span class="metric-value highlight" id="appliedCount">0</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="metric-label">Interviews</span>
+                        <span class="metric-value highlight" id="interviewCount">0</span>
+                    </div>
+                </div>
+
+                <!-- Chart Card (spans full width) -->
+                <div class="chart-card">
+                    <div class="chart-info">
+                        <h3>Market Status</h3>
+                        <p>Real-time overview of the current PM internship market. Be ready to apply as soon as positions open.</p>
+                        <div style="margin-top: 16px;">
+                            <span style="font-size: 1.25rem; font-weight: 700;" id="openCount">0</span>
+                            <span style="color: var(--text-muted); font-size: 0.85rem; text-transform: uppercase;"> Currently Open</span>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="marketChart"></canvas>
+                    </div>
+                </div>
+
             </div>
         </header>
 
-        <!-- New Dashboard Overview Section -->
-        <section class="dashboard-overview">
-            <div class="metrics-container">
-                <div class="metric-card">
-                    <h3>Total Tracked</h3>
-                    <p id="totalCount">0</p>
-                </div>
-                <div class="metric-card">
-                    <h3>Market Openings</h3>
-                    <p id="openCount" class="highlight-green">0</p>
-                </div>
-                <div class="metric-card">
-                    <h3>My Applications</h3>
-                    <p id="appliedCount" class="highlight-blue">0</p>
-                </div>
-                <div class="metric-card">
-                    <h3>Interviews</h3>
-                    <p id="interviewCount" class="highlight-purple">0</p>
-                </div>
-            </div>
-            
-            <div class="chart-wrapper">
-                <canvas id="marketChart"></canvas>
-            </div>
-        </section>
-
-        <!-- Toolbar for Grid -->
-        <div class="grid-toolbar">
-            <h2>Opportunities</h2>
-            <div class="sort-control">
-                <label for="sortSelect">Sort by:</label>
-                <select id="sortSelect">
-                    <option value="expectedOpening">Expected Opening (Earliest First)</option>
-                    <option value="name">Company Name (A-Z)</option>
-                    <option value="myStatus">My Status (Action Required First)</option>
+        <!-- CONTROLS -->
+        <div class="controls">
+            <span>Opportunities Directory</span>
+            <div>
+                <select id="sortSelect" class="sort-select">
+                    <option value="expectedOpening">Sort: Expected Opening</option>
+                    <option value="name">Sort: Company Name (A-Z)</option>
+                    <option value="myStatus">Sort: Action Required</option>
                 </select>
             </div>
         </div>
 
+        <!-- GRID -->
         <main>
             <div id="tracker-grid" class="tracker-grid">
                 <!-- Cards will be dynamically injected here by script.js -->
             </div>
         </main>
 
-        <footer>
-            <p>Data is based on historical trends and may vary. Please verify on official career portals.</p>
+        <footer style="margin-top: 40px; text-align: center; color: var(--text-muted); font-size: 0.85rem;">
+            <p>Data is based on historical trends (Jobloom) and active monitoring. Verify on official portals.</p>
         </footer>
     </div>
 

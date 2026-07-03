@@ -6,10 +6,11 @@ const companies = [
     "domain": "careers.adobe.com",
     "expectedOpening": "2027-01-13",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.966Z"
+    "lastChecked": "2026-07-03T20:35:24.966Z",
+    "lastYearOpened": "2026-01-13"
   },
   {
     "id": "adobe--mba-",
@@ -18,10 +19,11 @@ const companies = [
     "domain": "careers.adobe.com",
     "expectedOpening": "2027-01-13",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.975Z"
+    "lastChecked": "2026-07-03T20:35:24.975Z",
+    "lastYearOpened": "2026-01-13"
   },
   {
     "id": "airbnb",
@@ -30,10 +32,11 @@ const companies = [
     "domain": "careers.airbnb.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.airbnb.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "amazon",
@@ -42,10 +45,11 @@ const companies = [
     "domain": "amazon.jobs",
     "expectedOpening": "2027-01-20",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://amazon.jobs",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "2026-01-20"
   },
   {
     "id": "american-express",
@@ -54,10 +58,11 @@ const companies = [
     "domain": "aexp.eightfold.ai",
     "expectedOpening": "2026-12-10",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://aexp.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "2025-12-10"
   },
   {
     "id": "appian",
@@ -66,10 +71,11 @@ const companies = [
     "domain": "careers.appian.com",
     "expectedOpening": "2027-04-15",
     "sortMonth": 4,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.appian.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "2026-04-15"
   },
   {
     "id": "arcade-ai",
@@ -78,10 +84,11 @@ const companies = [
     "domain": "arcade.ai",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://arcade.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "asana",
@@ -90,10 +97,11 @@ const companies = [
     "domain": "asana.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://asana.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "atlassian",
@@ -102,10 +110,11 @@ const companies = [
     "domain": "atlassian.com",
     "expectedOpening": "2026-09-20",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://atlassian.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.976Z"
+    "lastChecked": "2026-07-03T20:35:24.976Z",
+    "lastYearOpened": "2025-09-20"
   },
   {
     "id": "blackrock",
@@ -114,10 +123,11 @@ const companies = [
     "domain": "careers.blackrock.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.blackrock.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.977Z"
+    "lastChecked": "2026-07-03T20:35:24.977Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "bytedance",
@@ -126,10 +136,11 @@ const companies = [
     "domain": "joinbytedance.com",
     "expectedOpening": "2026-08-12",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://joinbytedance.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-12"
   },
   {
     "id": "capitalone",
@@ -138,10 +149,11 @@ const companies = [
     "domain": "capitalonecareers.com",
     "expectedOpening": "2026-07-08",
     "sortMonth": 7,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://capitalonecareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-07-08"
   },
   {
     "id": "cisco",
@@ -150,10 +162,11 @@ const companies = [
     "domain": "careers.cisco.com",
     "expectedOpening": "2026-11-18",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.cisco.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-11-18"
   },
   {
     "id": "citrix",
@@ -162,10 +175,11 @@ const companies = [
     "domain": "careers.cloud.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.cloud.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "coinbase",
@@ -174,10 +188,11 @@ const companies = [
     "domain": "coinbase.com",
     "expectedOpening": "2026-12-07",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://coinbase.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-12-07"
   },
   {
     "id": "databricks",
@@ -186,10 +201,11 @@ const companies = [
     "domain": "databricks.com",
     "expectedOpening": "2026-08-19",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://databricks.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-19"
   },
   {
     "id": "doordash",
@@ -198,10 +214,11 @@ const companies = [
     "domain": "linkedin.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "dropbox",
@@ -210,10 +227,11 @@ const companies = [
     "domain": "jobs.dropbox.com",
     "expectedOpening": "2027-02-11",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.dropbox.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-11"
   },
   {
     "id": "duolingo",
@@ -222,10 +240,11 @@ const companies = [
     "domain": "careers.duolingo.com",
     "expectedOpening": "2026-08-28",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.duolingo.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-28"
   },
   {
     "id": "ebay",
@@ -234,10 +253,11 @@ const companies = [
     "domain": "app.ripplematch.com",
     "expectedOpening": "2027-02-10",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://app.ripplematch.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-10"
   },
   {
     "id": "electronic-arts--ea-",
@@ -246,10 +266,11 @@ const companies = [
     "domain": "ea.gr8people.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://ea.gr8people.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "expedia-group",
@@ -258,10 +279,11 @@ const companies = [
     "domain": "careers.expediagroup.com",
     "expectedOpening": "2027-02-12",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.expediagroup.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-12"
   },
   {
     "id": "figma",
@@ -270,10 +292,11 @@ const companies = [
     "domain": "figma.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://figma.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "google",
@@ -282,10 +305,11 @@ const companies = [
     "domain": "google.com",
     "expectedOpening": "2026-09-19",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-19"
   },
   {
     "id": "google--apmm-",
@@ -294,10 +318,11 @@ const companies = [
     "domain": "google.com",
     "expectedOpening": "2026-09-19",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-19"
   },
   {
     "id": "indeed",
@@ -306,10 +331,11 @@ const companies = [
     "domain": "indeed.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://indeed.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "instacart",
@@ -318,10 +344,11 @@ const companies = [
     "domain": "instacart.careers",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://instacart.careers",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "intuit",
@@ -330,10 +357,11 @@ const companies = [
     "domain": "jobs.intuit.com",
     "expectedOpening": "2026-09-01",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.intuit.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-01"
   },
   {
     "id": "ixl-learning",
@@ -342,10 +370,11 @@ const companies = [
     "domain": "ixl.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://ixl.com",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "kleiner-perkins-fellows",
@@ -354,10 +383,11 @@ const companies = [
     "domain": "jobs.ashbyhq.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "lenovo",
@@ -366,10 +396,11 @@ const companies = [
     "domain": "jobs.lenovo.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.lenovo.com",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "linkedin",
@@ -378,10 +409,11 @@ const companies = [
     "domain": "careers.linkedin.com",
     "expectedOpening": "2026-08-09",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-09"
   },
   {
     "id": "lyft",
@@ -390,10 +422,11 @@ const companies = [
     "domain": "lyft.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://lyft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mastercard",
@@ -402,10 +435,11 @@ const companies = [
     "domain": "careers.mastercard.com",
     "expectedOpening": "2026-09-01",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.mastercard.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-01"
   },
   {
     "id": "meta",
@@ -414,10 +448,11 @@ const companies = [
     "domain": "metacareers.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "microsoft",
@@ -426,10 +461,11 @@ const companies = [
     "domain": "jobs.careers.microsoft.com",
     "expectedOpening": "2026-08-15",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-15"
   },
   {
     "id": "miro",
@@ -438,10 +474,11 @@ const companies = [
     "domain": "miro.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://miro.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mojang",
@@ -450,10 +487,11 @@ const companies = [
     "domain": "jobs.careers.microsoft.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mozilla",
@@ -462,10 +500,11 @@ const companies = [
     "domain": "mozilla.org",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://mozilla.org",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "notion",
@@ -474,10 +513,11 @@ const companies = [
     "domain": "notion.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://notion.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "okx",
@@ -486,10 +526,11 @@ const companies = [
     "domain": "job-boards.greenhouse.io",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "paypal",
@@ -498,10 +539,11 @@ const companies = [
     "domain": "paypal.eightfold.ai",
     "expectedOpening": "2026-09-23",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://paypal.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-23"
   },
   {
     "id": "perplexity",
@@ -510,10 +552,11 @@ const companies = [
     "domain": "jobs.ashbyhq.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "pinterest",
@@ -522,10 +565,11 @@ const companies = [
     "domain": "pinterestcareers.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://pinterestcareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "red-hat",
@@ -534,10 +578,11 @@ const companies = [
     "domain": "redhat.wd5.myworkdayjobs.com",
     "expectedOpening": "2027-01-28",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://redhat.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-01-28"
   },
   {
     "id": "reddit",
@@ -546,10 +591,11 @@ const companies = [
     "domain": "boards.greenhouse.io",
     "expectedOpening": "2027-02-05",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-05"
   },
   {
     "id": "robinhood",
@@ -558,10 +604,11 @@ const companies = [
     "domain": "boards.greenhouse.io",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "roblox",
@@ -570,10 +617,11 @@ const companies = [
     "domain": "careers.roblox.com",
     "expectedOpening": "2026-11-08",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.roblox.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-11-08"
   },
   {
     "id": "salesforce",
@@ -582,10 +630,11 @@ const companies = [
     "domain": "salesforce.wd12.myworkdayjobs.com",
     "expectedOpening": "2026-07-08",
     "sortMonth": 7,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-07-08"
   },
   {
     "id": "samsara",
@@ -594,10 +643,11 @@ const companies = [
     "domain": "samsara.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://samsara.com",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "scale-ai",
@@ -606,10 +656,11 @@ const companies = [
     "domain": "job-boards.greenhouse.io",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "schmidt-futures",
@@ -618,10 +669,11 @@ const companies = [
     "domain": "schmidtfutures.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://schmidtfutures.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "shopify",
@@ -630,10 +682,11 @@ const companies = [
     "domain": "shopify.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://shopify.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "sierra-ai",
@@ -642,10 +695,11 @@ const companies = [
     "domain": "jobs.ashbyhq.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "snap",
@@ -654,10 +708,11 @@ const companies = [
     "domain": "wd1.myworkdaysite.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://wd1.myworkdaysite.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "spotify",
@@ -666,10 +721,11 @@ const companies = [
     "domain": "lifeatspotify.com",
     "expectedOpening": "2027-02-19",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://lifeatspotify.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-19"
   },
   {
     "id": "square",
@@ -678,10 +734,11 @@ const companies = [
     "domain": "block.xyz",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://block.xyz",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "stripe",
@@ -690,10 +747,11 @@ const companies = [
     "domain": "stripe.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://stripe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "stubhub",
@@ -702,10 +760,11 @@ const companies = [
     "domain": "job-boards.eu.greenhouse.io",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://job-boards.eu.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "tesla",
@@ -714,10 +773,11 @@ const companies = [
     "domain": "tesla.com",
     "expectedOpening": "2027-01-06",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://tesla.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-01-06"
   },
   {
     "id": "tiktok",
@@ -726,10 +786,11 @@ const companies = [
     "domain": "careers.tiktok.com",
     "expectedOpening": "2026-08-12",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.tiktok.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-08-12"
   },
   {
     "id": "uber",
@@ -738,10 +799,11 @@ const companies = [
     "domain": "uber.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://uber.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "visa",
@@ -750,10 +812,11 @@ const companies = [
     "domain": "jobs.smartrecruiters.com",
     "expectedOpening": "2027-03-09",
     "sortMonth": 3,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.smartrecruiters.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-03-09"
   },
   {
     "id": "warner-bros",
@@ -762,10 +825,11 @@ const companies = [
     "domain": "careers.wbd.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.wbd.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "workday",
@@ -774,10 +838,11 @@ const companies = [
     "domain": "workday.wd5.myworkdayjobs.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://workday.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "x--twitter-",
@@ -786,10 +851,11 @@ const companies = [
     "domain": "careers.x.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.x.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "yahoo",
@@ -798,10 +864,11 @@ const companies = [
     "domain": "yahooinc.com",
     "expectedOpening": "2027-02-11",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://yahooinc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-11"
   },
   {
     "id": "zynga",
@@ -810,10 +877,11 @@ const companies = [
     "domain": "zynga.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://zynga.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "apple",
@@ -822,10 +890,11 @@ const companies = [
     "domain": "jobs.apple.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.apple.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "cloudflare",
@@ -834,10 +903,11 @@ const companies = [
     "domain": "job-boards.greenhouse.io",
     "expectedOpening": "2026-11-19",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-11-19"
   },
   {
     "id": "crowdstrike",
@@ -846,10 +916,11 @@ const companies = [
     "domain": "crowdstrike.wd5.myworkdayjobs.com",
     "expectedOpening": "2027-02-21",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://crowdstrike.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2026-02-21"
   },
   {
     "id": "datadog",
@@ -858,10 +929,11 @@ const companies = [
     "domain": "careers.datadoghq.com",
     "expectedOpening": "2026-09-09",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.datadoghq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.978Z"
+    "lastChecked": "2026-07-03T20:35:24.978Z",
+    "lastYearOpened": "2025-09-09"
   },
   {
     "id": "disney",
@@ -870,10 +942,11 @@ const companies = [
     "domain": "disney.wd5.myworkdayjobs.com",
     "expectedOpening": "2026-12-12",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://disney.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-12-12"
   },
   {
     "id": "github",
@@ -882,10 +955,11 @@ const companies = [
     "domain": "githubinc.jibeapply.com",
     "expectedOpening": "2027-02-18",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://githubinc.jibeapply.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-02-18"
   },
   {
     "id": "hewlett-packard-enterprise",
@@ -894,10 +968,11 @@ const companies = [
     "domain": "careers.hpe.com",
     "expectedOpening": "2026-11-14",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.hpe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-11-14"
   },
   {
     "id": "ibm",
@@ -906,10 +981,11 @@ const companies = [
     "domain": "ibmglobal.avature.net",
     "expectedOpening": "2026-09-11",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://ibmglobal.avature.net",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-09-11"
   },
   {
     "id": "jane-street",
@@ -918,10 +994,11 @@ const companies = [
     "domain": "janestreet.com",
     "expectedOpening": "2026-06-13",
     "sortMonth": 6,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://janestreet.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-06-13"
   },
   {
     "id": "masterclass",
@@ -930,10 +1007,11 @@ const companies = [
     "domain": "linkedin.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mongodb",
@@ -942,10 +1020,11 @@ const companies = [
     "domain": "mongodb.com",
     "expectedOpening": "2027-02-23",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://mongodb.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-02-23"
   },
   {
     "id": "nike--grad-",
@@ -954,10 +1033,11 @@ const companies = [
     "domain": "jobs.nike.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.nike.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "nvidia",
@@ -966,10 +1046,11 @@ const companies = [
     "domain": "nvidia.wd5.myworkdayjobs.com",
     "expectedOpening": "2026-12-12",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://nvidia.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-12-12"
   },
   {
     "id": "okta--mba-",
@@ -978,10 +1059,11 @@ const companies = [
     "domain": "okta.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "oracle",
@@ -990,10 +1072,11 @@ const companies = [
     "domain": "eeho.fa.us2.oraclecloud.com",
     "expectedOpening": "2026-11-06",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://eeho.fa.us2.oraclecloud.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-11-06"
   },
   {
     "id": "qualcomm",
@@ -1002,10 +1085,11 @@ const companies = [
     "domain": "app.eightfold.ai",
     "expectedOpening": "2026-10-20",
     "sortMonth": 10,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://app.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-10-20"
   },
   {
     "id": "rakuten",
@@ -1014,10 +1098,11 @@ const companies = [
     "domain": "rakuten.wd1.myworkdayjobs.com",
     "expectedOpening": "2027-01-27",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://rakuten.wd1.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-01-27"
   },
   {
     "id": "sap",
@@ -1026,10 +1111,11 @@ const companies = [
     "domain": "jobs.sap.com",
     "expectedOpening": "2027-01-09",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.sap.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-01-09"
   },
   {
     "id": "servicenow",
@@ -1038,10 +1124,11 @@ const companies = [
     "domain": "careers.servicenow.com",
     "expectedOpening": "2026-09-15",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.servicenow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2025-09-15"
   },
   {
     "id": "slack",
@@ -1050,10 +1137,11 @@ const companies = [
     "domain": "salesforce.wd12.myworkdayjobs.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM List",
+    "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "snowflake",
@@ -1062,10 +1150,11 @@ const companies = [
     "domain": "jobs.ashbyhq.com",
     "expectedOpening": "2027-04-03",
     "sortMonth": 4,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-04-03"
   },
   {
     "id": "splunk",
@@ -1074,10 +1163,11 @@ const companies = [
     "domain": "splunk.com",
     "expectedOpening": "2027-01-07",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://splunk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-01-07"
   },
   {
     "id": "tencent",
@@ -1086,10 +1176,11 @@ const companies = [
     "domain": "tencent.wd1.myworkdayjobs.com",
     "expectedOpening": "2027-04-01",
     "sortMonth": 4,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://tencent.wd1.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-04-01"
   },
   {
     "id": "the-trade-desk",
@@ -1098,10 +1189,11 @@ const companies = [
     "domain": "careers.thetradedesk.com",
     "expectedOpening": "2027-02-10",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.thetradedesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-02-10"
   },
   {
     "id": "tinder",
@@ -1110,10 +1202,11 @@ const companies = [
     "domain": "join.matchgroupcareers.com",
     "expectedOpening": "2027-03-04",
     "sortMonth": 3,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://join.matchgroupcareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-03-04"
   },
   {
     "id": "walmart",
@@ -1122,10 +1215,11 @@ const companies = [
     "domain": "walmart.wd5.myworkdayjobs.com",
     "expectedOpening": "2027-01-15",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://walmart.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:35:24.979Z"
+    "lastChecked": "2026-07-03T20:35:24.979Z",
+    "lastYearOpened": "2026-01-15"
   },
   {
     "id": "plaid",
@@ -1134,10 +1228,11 @@ const companies = [
     "domain": "jobs.lever.co",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:36:05.302Z"
+    "lastChecked": "2026-07-03T20:36:05.302Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "warner-music-group",
@@ -1146,10 +1241,11 @@ const companies = [
     "domain": "jobs.lever.co",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:36:05.314Z"
+    "lastChecked": "2026-07-03T20:36:05.314Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "the-home-depot",
@@ -1158,10 +1254,11 @@ const companies = [
     "domain": "careers.homedepot.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.homedepot.com",
     "status": "Open",
-    "lastChecked": "2026-07-03T20:36:05.314Z"
+    "lastChecked": "2026-07-03T20:36:05.314Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "seatgeak",
@@ -1170,10 +1267,11 @@ const companies = [
     "domain": "seatgeek.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://seatgeek.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.314Z"
+    "lastChecked": "2026-07-03T20:36:05.314Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "zoom",
@@ -1182,10 +1280,11 @@ const companies = [
     "domain": "careers.zoom.com",
     "expectedOpening": "2027-02-21",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.zoom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.315Z"
+    "lastChecked": "2026-07-03T20:36:05.315Z",
+    "lastYearOpened": "2026-02-21"
   },
   {
     "id": "s-amp-p-global",
@@ -1194,10 +1293,11 @@ const companies = [
     "domain": "careers.samppglobal.com",
     "expectedOpening": "2026-12-04",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.samppglobal.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.315Z"
+    "lastChecked": "2026-07-03T20:36:05.315Z",
+    "lastYearOpened": "2025-12-04"
   },
   {
     "id": "warner-bros--discovery",
@@ -1206,10 +1306,11 @@ const companies = [
     "domain": "careers.warnerbrosdiscovery.com",
     "expectedOpening": "2027-02-25",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.warnerbrosdiscovery.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.315Z"
+    "lastChecked": "2026-07-03T20:36:05.315Z",
+    "lastYearOpened": "2026-02-25"
   },
   {
     "id": "invesco",
@@ -1218,10 +1319,11 @@ const companies = [
     "domain": "careers.invesco.com",
     "expectedOpening": "2027-02-17",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.invesco.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.315Z"
+    "lastChecked": "2026-07-03T20:36:05.315Z",
+    "lastYearOpened": "2026-02-17"
   },
   {
     "id": "experian",
@@ -1230,10 +1332,11 @@ const companies = [
     "domain": "careers.experian.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.experian.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.315Z"
+    "lastChecked": "2026-07-03T20:36:05.315Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "t-mobile",
@@ -1242,10 +1345,11 @@ const companies = [
     "domain": "careers.tmobile.com",
     "expectedOpening": "2026-12-21",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.tmobile.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.316Z"
+    "lastChecked": "2026-07-03T20:36:05.316Z",
+    "lastYearOpened": "2025-12-21"
   },
   {
     "id": "palo-alto-networks",
@@ -1254,10 +1358,11 @@ const companies = [
     "domain": "careers.paloaltonetworks.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.paloaltonetworks.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.316Z"
+    "lastChecked": "2026-07-03T20:36:05.316Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "poshmark",
@@ -1266,10 +1371,11 @@ const companies = [
     "domain": "careers.poshmark.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.poshmark.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.316Z"
+    "lastChecked": "2026-07-03T20:36:05.316Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "seatgeek",
@@ -1278,10 +1384,11 @@ const companies = [
     "domain": "careers.seatgeek.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.seatgeek.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.316Z"
+    "lastChecked": "2026-07-03T20:36:05.316Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "kpcb-fellows",
@@ -1290,10 +1397,11 @@ const companies = [
     "domain": "careers.kpcbfellows.com",
     "expectedOpening": "2027-02-24",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.kpcbfellows.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.316Z"
+    "lastChecked": "2026-07-03T20:36:05.316Z",
+    "lastYearOpened": "2026-02-24"
   },
   {
     "id": "optum",
@@ -1302,10 +1410,11 @@ const companies = [
     "domain": "careers.optum.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.optum.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "jetblue",
@@ -1314,10 +1423,11 @@ const companies = [
     "domain": "careers.jetblue.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.jetblue.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "american-airlines",
@@ -1326,10 +1436,11 @@ const companies = [
     "domain": "jobs.aa.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.aa.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "new-balance",
@@ -1338,10 +1449,11 @@ const companies = [
     "domain": "jobs.newbalance.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.newbalance.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "wells-fargo",
@@ -1350,10 +1462,11 @@ const companies = [
     "domain": "wellsfargojobs.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://wellsfargojobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "sam--x27-s-club",
@@ -1362,10 +1475,11 @@ const companies = [
     "domain": "careers.walmart.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.walmart.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "draftkings",
@@ -1374,10 +1488,11 @@ const companies = [
     "domain": "careers.draftkings.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.draftkings.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.317Z"
+    "lastChecked": "2026-07-03T20:36:05.317Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "meta--facebook-",
@@ -1386,10 +1501,11 @@ const companies = [
     "domain": "metacareers.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "arcade",
@@ -1398,10 +1514,11 @@ const companies = [
     "domain": "jobs.lever.co",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "rippling",
@@ -1410,10 +1527,11 @@ const companies = [
     "domain": "ats.rippling.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://ats.rippling.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "pnc",
@@ -1422,10 +1540,11 @@ const companies = [
     "domain": "careers.pnc.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://careers.pnc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "capital-one",
@@ -1434,10 +1553,11 @@ const companies = [
     "domain": "capitalonecareers.com",
     "expectedOpening": "2026-07-08",
     "sortMonth": 7,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://capitalonecareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "2025-07-08"
   },
   {
     "id": "your-company-here",
@@ -1446,10 +1566,11 @@ const companies = [
     "domain": "linkedin.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Source: APM Season",
+    "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:05.319Z"
+    "lastChecked": "2026-07-03T20:36:05.319Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "netflix",
@@ -1458,10 +1579,11 @@ const companies = [
     "domain": "netflix.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://netflix.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.266Z"
+    "lastChecked": "2026-07-03T20:36:26.266Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "discord",
@@ -1470,10 +1592,11 @@ const companies = [
     "domain": "discord.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://discord.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "epic-games",
@@ -1482,10 +1605,11 @@ const companies = [
     "domain": "epicgames.com",
     "expectedOpening": "2026-11-07",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://epicgames.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "2025-11-07"
   },
   {
     "id": "twitch",
@@ -1494,10 +1618,11 @@ const companies = [
     "domain": "twitch.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://twitch.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "roku",
@@ -1506,10 +1631,11 @@ const companies = [
     "domain": "roku.com",
     "expectedOpening": "2027-03-21",
     "sortMonth": 3,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://roku.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "2026-03-21"
   },
   {
     "id": "peloton",
@@ -1518,10 +1644,11 @@ const companies = [
     "domain": "peloton.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://peloton.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "zillow",
@@ -1530,10 +1657,11 @@ const companies = [
     "domain": "zillow.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://zillow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "redfin",
@@ -1542,10 +1670,11 @@ const companies = [
     "domain": "redfin.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://redfin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "opendoor",
@@ -1554,10 +1683,11 @@ const companies = [
     "domain": "opendoor.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://opendoor.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "compass",
@@ -1566,10 +1696,11 @@ const companies = [
     "domain": "compass.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://compass.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "affirm",
@@ -1578,10 +1709,11 @@ const companies = [
     "domain": "affirm.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://affirm.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "klarna",
@@ -1590,10 +1722,11 @@ const companies = [
     "domain": "klarna.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://klarna.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "chime",
@@ -1602,10 +1735,11 @@ const companies = [
     "domain": "chime.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://chime.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "brex",
@@ -1614,10 +1748,11 @@ const companies = [
     "domain": "brex.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://brex.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "ramp",
@@ -1626,10 +1761,11 @@ const companies = [
     "domain": "ramp.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://ramp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "gusto",
@@ -1638,10 +1774,11 @@ const companies = [
     "domain": "gusto.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://gusto.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "deel",
@@ -1650,10 +1787,11 @@ const companies = [
     "domain": "deel.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://deel.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "canva",
@@ -1662,10 +1800,11 @@ const companies = [
     "domain": "canva.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://canva.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "airtable",
@@ -1674,10 +1813,11 @@ const companies = [
     "domain": "airtable.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://airtable.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "coda",
@@ -1686,10 +1826,11 @@ const companies = [
     "domain": "coda.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://coda.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "monday-com",
@@ -1698,10 +1839,11 @@ const companies = [
     "domain": "mondaycom.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://mondaycom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "smartsheet",
@@ -1710,10 +1852,11 @@ const companies = [
     "domain": "smartsheet.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://smartsheet.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "elastic",
@@ -1722,10 +1865,11 @@ const companies = [
     "domain": "elastic.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://elastic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "confluent",
@@ -1734,10 +1878,11 @@ const companies = [
     "domain": "confluent.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://confluent.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "hashicorp",
@@ -1746,10 +1891,11 @@ const companies = [
     "domain": "hashicorp.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://hashicorp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "okta",
@@ -1758,10 +1904,11 @@ const companies = [
     "domain": "okta.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.276Z"
+    "lastChecked": "2026-07-03T20:36:26.276Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "fastly",
@@ -1770,10 +1917,11 @@ const companies = [
     "domain": "fastly.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://fastly.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "twilio",
@@ -1782,10 +1930,11 @@ const companies = [
     "domain": "twilio.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://twilio.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "sendgrid",
@@ -1794,10 +1943,11 @@ const companies = [
     "domain": "sendgrid.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://sendgrid.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "messagebird",
@@ -1806,10 +1956,11 @@ const companies = [
     "domain": "messagebird.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://messagebird.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "hubspot",
@@ -1818,10 +1969,11 @@ const companies = [
     "domain": "hubspot.com",
     "expectedOpening": "2026-09-07",
     "sortMonth": 9,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://hubspot.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "2025-09-07"
   },
   {
     "id": "zendesk",
@@ -1830,10 +1982,11 @@ const companies = [
     "domain": "zendesk.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://zendesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "intercom",
@@ -1842,10 +1995,11 @@ const companies = [
     "domain": "intercom.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://intercom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "box",
@@ -1854,10 +2008,11 @@ const companies = [
     "domain": "box.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://box.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "docusign",
@@ -1866,10 +2021,11 @@ const companies = [
     "domain": "docusign.com",
     "expectedOpening": "2026-11-25",
     "sortMonth": 11,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://docusign.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "2025-11-25"
   },
   {
     "id": "autodesk",
@@ -1878,10 +2034,11 @@ const companies = [
     "domain": "autodesk.com",
     "expectedOpening": "2026-08-26",
     "sortMonth": 8,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://autodesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "2025-08-26"
   },
   {
     "id": "bigcommerce",
@@ -1890,10 +2047,11 @@ const companies = [
     "domain": "bigcommerce.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://bigcommerce.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "etsy",
@@ -1902,10 +2060,11 @@ const companies = [
     "domain": "etsy.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://etsy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "wayfair",
@@ -1914,10 +2073,11 @@ const companies = [
     "domain": "wayfair.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://wayfair.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "chewy",
@@ -1926,10 +2086,11 @@ const companies = [
     "domain": "chewy.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://chewy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "grubhub",
@@ -1938,10 +2099,11 @@ const companies = [
     "domain": "grubhub.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://grubhub.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "postmates",
@@ -1950,10 +2112,11 @@ const companies = [
     "domain": "postmates.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://postmates.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "expedia",
@@ -1962,10 +2125,11 @@ const companies = [
     "domain": "expedia.com",
     "expectedOpening": "2027-02-12",
     "sortMonth": 2,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://expedia.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "2026-02-12"
   },
   {
     "id": "booking-com",
@@ -1974,10 +2138,11 @@ const companies = [
     "domain": "bookingcom.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://bookingcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "tripadvisor",
@@ -1986,10 +2151,11 @@ const companies = [
     "domain": "tripadvisor.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://tripadvisor.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "kayak",
@@ -1998,10 +2164,11 @@ const companies = [
     "domain": "kayak.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://kayak.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "yelp",
@@ -2010,10 +2177,11 @@ const companies = [
     "domain": "yelp.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://yelp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "opentable",
@@ -2022,10 +2190,11 @@ const companies = [
     "domain": "opentable.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://opentable.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "eventbrite",
@@ -2034,10 +2203,11 @@ const companies = [
     "domain": "eventbrite.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://eventbrite.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "ticketmaster",
@@ -2046,10 +2216,11 @@ const companies = [
     "domain": "ticketmaster.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://ticketmaster.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "vimeo",
@@ -2058,10 +2229,11 @@ const companies = [
     "domain": "vimeo.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://vimeo.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "alibaba",
@@ -2070,10 +2242,11 @@ const companies = [
     "domain": "alibaba.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://alibaba.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "baidu",
@@ -2082,10 +2255,11 @@ const companies = [
     "domain": "baidu.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://baidu.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "jd-com",
@@ -2094,10 +2268,11 @@ const companies = [
     "domain": "jdcom.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://jdcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "meituan",
@@ -2106,10 +2281,11 @@ const companies = [
     "domain": "meituan.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://meituan.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "didi",
@@ -2118,10 +2294,11 @@ const companies = [
     "domain": "didi.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://didi.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "grab",
@@ -2130,10 +2307,11 @@ const companies = [
     "domain": "grab.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://grab.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "gojek",
@@ -2142,10 +2320,11 @@ const companies = [
     "domain": "gojek.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://gojek.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mercadolibre",
@@ -2154,10 +2333,11 @@ const companies = [
     "domain": "mercadolibre.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://mercadolibre.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "nubank",
@@ -2166,10 +2346,11 @@ const companies = [
     "domain": "nubank.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://nubank.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "stone",
@@ -2178,10 +2359,11 @@ const companies = [
     "domain": "stone.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://stone.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "pagseguro",
@@ -2190,10 +2372,11 @@ const companies = [
     "domain": "pagseguro.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://pagseguro.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "paytm",
@@ -2202,10 +2385,11 @@ const companies = [
     "domain": "paytm.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://paytm.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "flipkart",
@@ -2214,10 +2398,11 @@ const companies = [
     "domain": "flipkart.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://flipkart.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "ola",
@@ -2226,10 +2411,11 @@ const companies = [
     "domain": "ola.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://ola.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "swiggy",
@@ -2238,10 +2424,11 @@ const companies = [
     "domain": "swiggy.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://swiggy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "zomato",
@@ -2250,10 +2437,11 @@ const companies = [
     "domain": "zomato.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://zomato.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "vmware",
@@ -2262,10 +2450,11 @@ const companies = [
     "domain": "vmware.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://vmware.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "intel",
@@ -2274,10 +2463,11 @@ const companies = [
     "domain": "intel.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://intel.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "amd",
@@ -2286,10 +2476,11 @@ const companies = [
     "domain": "amd.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://amd.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "broadcom",
@@ -2298,10 +2489,11 @@ const companies = [
     "domain": "broadcom.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://broadcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "texas-instruments",
@@ -2310,10 +2502,11 @@ const companies = [
     "domain": "texasinstruments.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://texasinstruments.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "micron",
@@ -2322,10 +2515,11 @@ const companies = [
     "domain": "micron.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://micron.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "applied-materials",
@@ -2334,10 +2528,11 @@ const companies = [
     "domain": "appliedmaterials.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://appliedmaterials.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.277Z"
+    "lastChecked": "2026-07-03T20:36:26.277Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "asml",
@@ -2346,10 +2541,11 @@ const companies = [
     "domain": "asml.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://asml.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "tsmc",
@@ -2358,10 +2554,11 @@ const companies = [
     "domain": "tsmc.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://tsmc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "samsung",
@@ -2370,10 +2567,11 @@ const companies = [
     "domain": "samsung.com",
     "expectedOpening": "2026-12-18",
     "sortMonth": 12,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://samsung.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "2025-12-18"
   },
   {
     "id": "sony",
@@ -2382,10 +2580,11 @@ const companies = [
     "domain": "sony.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://sony.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "lg",
@@ -2394,10 +2593,11 @@ const companies = [
     "domain": "lg.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://lg.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "panasonic",
@@ -2406,10 +2606,11 @@ const companies = [
     "domain": "panasonic.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://panasonic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "philips",
@@ -2418,10 +2619,11 @@ const companies = [
     "domain": "philips.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://philips.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "siemens",
@@ -2430,10 +2632,11 @@ const companies = [
     "domain": "siemens.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://siemens.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "ge",
@@ -2442,10 +2645,11 @@ const companies = [
     "domain": "ge.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://ge.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "honeywell",
@@ -2454,10 +2658,11 @@ const companies = [
     "domain": "honeywell.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://honeywell.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "3m",
@@ -2466,10 +2671,11 @@ const companies = [
     "domain": "3m.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://3m.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "dupont",
@@ -2478,10 +2684,11 @@ const companies = [
     "domain": "dupont.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://dupont.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "dow",
@@ -2490,10 +2697,11 @@ const companies = [
     "domain": "dow.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://dow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "basf",
@@ -2502,10 +2710,11 @@ const companies = [
     "domain": "basf.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://basf.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "bayer",
@@ -2514,10 +2723,11 @@ const companies = [
     "domain": "bayer.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://bayer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "johnson---johnson",
@@ -2526,10 +2736,11 @@ const companies = [
     "domain": "johnsonjohnson.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://johnsonjohnson.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "pfizer",
@@ -2538,10 +2749,11 @@ const companies = [
     "domain": "pfizer.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://pfizer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.278Z"
+    "lastChecked": "2026-07-03T20:36:26.278Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "merck",
@@ -2550,10 +2762,11 @@ const companies = [
     "domain": "merck.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://merck.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "novartis",
@@ -2562,10 +2775,11 @@ const companies = [
     "domain": "novartis.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://novartis.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "roche",
@@ -2574,10 +2788,11 @@ const companies = [
     "domain": "roche.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://roche.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "sanofi",
@@ -2586,10 +2801,11 @@ const companies = [
     "domain": "sanofi.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://sanofi.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "glaxosmithkline",
@@ -2598,10 +2814,11 @@ const companies = [
     "domain": "glaxosmithkline.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://glaxosmithkline.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "astrazeneca",
@@ -2610,10 +2827,11 @@ const companies = [
     "domain": "astrazeneca.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://astrazeneca.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "abbott",
@@ -2622,10 +2840,11 @@ const companies = [
     "domain": "abbott.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://abbott.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "medtronic",
@@ -2634,10 +2853,11 @@ const companies = [
     "domain": "medtronic.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://medtronic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "boston-scientific",
@@ -2646,10 +2866,11 @@ const companies = [
     "domain": "bostonscientific.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://bostonscientific.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "stryker",
@@ -2658,10 +2879,11 @@ const companies = [
     "domain": "stryker.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://stryker.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "becton-dickinson",
@@ -2670,10 +2892,11 @@ const companies = [
     "domain": "bectondickinson.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://bectondickinson.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "baxter",
@@ -2682,10 +2905,11 @@ const companies = [
     "domain": "baxter.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://baxter.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "danaher",
@@ -2694,10 +2918,11 @@ const companies = [
     "domain": "danaher.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://danaher.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "thermo-fisher",
@@ -2706,10 +2931,11 @@ const companies = [
     "domain": "thermofisher.com",
     "expectedOpening": "2027-01-13",
     "sortMonth": 1,
-    "signals": "Source: Jobloom",
+    "signals": "Source: Official Career Site",
     "link": "https://thermofisher.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "2026-01-13"
   },
   {
     "id": "illumina",
@@ -2718,10 +2944,11 @@ const companies = [
     "domain": "illumina.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://illumina.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "agilent",
@@ -2730,10 +2957,11 @@ const companies = [
     "domain": "agilent.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://agilent.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "perkinelmer",
@@ -2742,10 +2970,11 @@ const companies = [
     "domain": "perkinelmer.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://perkinelmer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.279Z"
+    "lastChecked": "2026-07-03T20:36:26.279Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "waters",
@@ -2754,10 +2983,11 @@ const companies = [
     "domain": "waters.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://waters.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.280Z"
+    "lastChecked": "2026-07-03T20:36:26.280Z",
+    "lastYearOpened": "NaN-NaN-NaN"
   },
   {
     "id": "mettler-toledo",
@@ -2766,9 +2996,257 @@ const companies = [
     "domain": "mettlertoledo.com",
     "expectedOpening": "Follows tech cycle",
     "sortMonth": 8,
-    "signals": "Fortune 500 / Big Tech",
+    "signals": "Source: Official Career Site",
     "link": "https://mettlertoledo.com",
     "status": "Not yet open",
-    "lastChecked": "2026-07-03T20:36:26.280Z"
+    "lastChecked": "2026-07-03T20:36:26.280Z",
+    "lastYearOpened": "NaN-NaN-NaN"
+  },
+  {
+    "id": "henkel",
+    "name": "Henkel",
+    "program": "Product Management (APM / Intern)",
+    "domain": "henkel.com",
+    "expectedOpening": "2026-09-12",
+    "sortMonth": 9,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.henkel.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.143Z",
+    "lastYearOpened": "2025-09-12"
+  },
+  {
+    "id": "procter-amp-gamble",
+    "name": "Procter &amp; Gamble",
+    "program": "Product Management (APM / Intern)",
+    "domain": "procterampgamble.com",
+    "expectedOpening": "2026-11-20",
+    "sortMonth": 11,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.procterampgamble.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.167Z",
+    "lastYearOpened": "2025-11-20"
+  },
+  {
+    "id": "dassault-systemes",
+    "name": "Dassault Systemes",
+    "program": "Product Management (APM / Intern)",
+    "domain": "dassaultsystemes.com",
+    "expectedOpening": "2026-12-02",
+    "sortMonth": 12,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.dassaultsystemes.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.167Z",
+    "lastYearOpened": "2025-12-02"
+  },
+  {
+    "id": "nbcuniversal",
+    "name": "NBCUniversal",
+    "program": "Product Management (APM / Intern)",
+    "domain": "nbcuniversal.com",
+    "expectedOpening": "2026-12-03",
+    "sortMonth": 12,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.nbcuniversal.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.167Z",
+    "lastYearOpened": "2025-12-03"
+  },
+  {
+    "id": "ulta-beauty",
+    "name": "Ulta Beauty",
+    "program": "Product Management (APM / Intern)",
+    "domain": "ultabeauty.com",
+    "expectedOpening": "2026-12-05",
+    "sortMonth": 12,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.ultabeauty.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2025-12-05"
+  },
+  {
+    "id": "illumio",
+    "name": "Illumio",
+    "program": "Product Management (APM / Intern)",
+    "domain": "illumio.com",
+    "expectedOpening": "2026-12-16",
+    "sortMonth": 12,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.illumio.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2025-12-16"
+  },
+  {
+    "id": "glean",
+    "name": "Glean",
+    "program": "Product Management (APM / Intern)",
+    "domain": "glean.com",
+    "expectedOpening": "2027-01-08",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.glean.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2026-01-08"
+  },
+  {
+    "id": "nasdaq",
+    "name": "Nasdaq",
+    "program": "Product Management (APM / Intern)",
+    "domain": "nasdaq.com",
+    "expectedOpening": "2027-01-14",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.nasdaq.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2026-01-14"
+  },
+  {
+    "id": "corsair",
+    "name": "Corsair",
+    "program": "Product Management (APM / Intern)",
+    "domain": "corsair.com",
+    "expectedOpening": "2027-01-21",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.corsair.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2026-01-21"
+  },
+  {
+    "id": "snorkel-ai",
+    "name": "Snorkel AI",
+    "program": "Product Management (APM / Intern)",
+    "domain": "snorkelai.com",
+    "expectedOpening": "2027-01-21",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.snorkelai.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.168Z",
+    "lastYearOpened": "2026-01-21"
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "program": "Product Management (APM / Intern)",
+    "domain": "gemini.com",
+    "expectedOpening": "2027-01-22",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.gemini.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.170Z",
+    "lastYearOpened": "2026-01-22"
+  },
+  {
+    "id": "workiva",
+    "name": "Workiva",
+    "program": "Product Management (APM / Intern)",
+    "domain": "workiva.com",
+    "expectedOpening": "2027-01-28",
+    "sortMonth": 1,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.workiva.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.171Z",
+    "lastYearOpened": "2026-01-28"
+  },
+  {
+    "id": "paramount",
+    "name": "Paramount",
+    "program": "Product Management (APM / Intern)",
+    "domain": "paramount.com",
+    "expectedOpening": "2027-02-04",
+    "sortMonth": 2,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.paramount.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.172Z",
+    "lastYearOpened": "2026-02-04"
+  },
+  {
+    "id": "uipath",
+    "name": "UiPath",
+    "program": "Product Management (APM / Intern)",
+    "domain": "uipath.com",
+    "expectedOpening": "2027-02-18",
+    "sortMonth": 2,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.uipath.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.172Z",
+    "lastYearOpened": "2026-02-18"
+  },
+  {
+    "id": "activision-blizzard",
+    "name": "Activision-Blizzard",
+    "program": "Product Management (APM / Intern)",
+    "domain": "activisionblizzard.com",
+    "expectedOpening": "2027-02-21",
+    "sortMonth": 2,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.activisionblizzard.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.172Z",
+    "lastYearOpened": "2026-02-21"
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "program": "Product Management (APM / Intern)",
+    "domain": "king.com",
+    "expectedOpening": "2027-02-21",
+    "sortMonth": 2,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.king.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.173Z",
+    "lastYearOpened": "2026-02-21"
+  },
+  {
+    "id": "zoox",
+    "name": "Zoox",
+    "program": "Product Management (APM / Intern)",
+    "domain": "zoox.com",
+    "expectedOpening": "2027-02-21",
+    "sortMonth": 2,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.zoox.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.173Z",
+    "lastYearOpened": "2026-02-21"
+  },
+  {
+    "id": "circle",
+    "name": "Circle",
+    "program": "Product Management (APM / Intern)",
+    "domain": "circle.com",
+    "expectedOpening": "2027-03-21",
+    "sortMonth": 3,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.circle.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.173Z",
+    "lastYearOpened": "2026-03-21"
+  },
+  {
+    "id": "fortinet",
+    "name": "Fortinet",
+    "program": "Product Management (APM / Intern)",
+    "domain": "fortinet.com",
+    "expectedOpening": "2027-03-31",
+    "sortMonth": 3,
+    "signals": "Source: Official Career Site",
+    "link": "https://www.fortinet.com/careers",
+    "status": "Not yet open",
+    "lastChecked": "2026-07-03T20:48:56.173Z",
+    "lastYearOpened": "2026-03-31"
   }
 ];

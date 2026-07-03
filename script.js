@@ -66,14 +66,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 datasets: [{
                     data: [open, pending, closed],
                     backgroundColor: [
-                        'rgba(0, 255, 204, 0.8)', // Neon Cyan
-                        'rgba(255, 255, 255, 0.1)', // Glass White
-                        'rgba(239, 68, 68, 0.8)'   // Neon Red
+                        '#10B981', // Open - IoT Green
+                        '#94A3B8', // Pending - Slate
+                        '#EF4444'  // Closed - Red
                     ],
                     borderColor: [
-                        '#00ffcc',
-                        'rgba(255,255,255,0.2)',
-                        '#ef4444'
+                        '#FFFFFF',
+                        '#FFFFFF',
+                        '#FFFFFF'
                     ],
                     borderWidth: 2,
                     hoverOffset: 4
@@ -86,8 +86,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     legend: {
                         position: 'right',
                         labels: {
-                            color: '#ffffff',
-                            font: { family: 'Outfit', size: 14 }
+                            color: '#475569',
+                            font: { family: 'Inter', size: 12, weight: '500' }
                         }
                     }
                 },
@@ -131,12 +131,16 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="detail-value">${company.program}</span>
                     </div>
                     <div class="detail-group">
-                        <span class="detail-label">Expected Opening</span>
-                        <span class="detail-value highlight">${company.expectedOpening}</span>
+                        <span class="detail-label">Expected 2026 Opening</span>
+                        <span class="detail-value highlight">${company.expectedOpening || 'Unknown'}</span>
                     </div>
                     <div class="detail-group">
-                        <span class="detail-label">Early Access Signals</span>
-                        <span class="detail-value">${company.signals}</span>
+                        <span class="detail-label">Historical 2025 Opening</span>
+                        <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">${company.lastYearOpened || 'Unknown'}</span>
+                    </div>
+                    <div class="detail-group">
+                        <span class="detail-label">Signals</span>
+                        <span class="detail-value">${company.signals || 'None'}</span>
                     </div>
 
                     <div class="personal-tracking">
