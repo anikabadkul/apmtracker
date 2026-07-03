@@ -111,91 +111,118 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'card';
             
             const logoUrl = `https://logo.clearbit.com/${company.domain}?size=100`;
-            const currentMyStatus = userStatuses[company.id] || "To Do";
-
-            // Helper to generate <option> with selected attribute
-            const opt = (val) => `<option value="${val}" ${currentMyStatus === val ? 'selected' : ''}>${val}</option>`;
-
-            card.innerHTML = `
-                <div class="card-header">
-                    <div class="company-info">
-                        <img src="https://logo.clearbit.com/${company.domain}" class="company-logo" alt="${company.name} logo" onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(company.name)}&background=random&color=fff';">
-                        <span class="company-name">${company.name}</span>
-                    </div>
-                    <span class="status-badge ${getStatusClass(company.status)}">${company.status}</span>
+            <div class="card-body">
+                <div class="detail-group">
+                    <span class="detail-label">Role</span>
+                    <span class="detail-value">${company.program}</span>
                 </div>
-                
-                <div class="card-body">
-                    <div class="detail-group">
-                        <span class="detail-label">Role</span>
-                        <span class="detail-value">${company.program}</span>
-                    </div>
-                    <div class="detail-group">
-                        <span class="detail-label">Expected 2026 Opening</span>
-                        <span class="detail-value highlight">${company.expectedOpening || 'Unknown'}</span>
-                    </div>
-                    <div class="detail-group">
-                        <span class="detail-label">Historical 2025 Opening</span>
-                        <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">${company.lastYearOpened || 'Unknown'}</span>
-                    </div>
-                    <div class="detail-group">
-                        <span class="detail-label">Signals</span>
-                        <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">Source: Industry Trend Projection (AI)</span>
-                    </div>
-
-                    <div class="personal-tracking">
-                        <span class="detail-label">My Status:</span>
-                        <select class="personal-status-select" data-id="${company.id}">
-                            ${opt("To Do")}
-                            ${opt("Applied")}
-                            ${opt("Interviewing")}
-                            ${opt("Offer")}
-                            ${opt("Rejected")}
-                        </select>
-                    </div>
+                <div class="detail-group">
+                    <span class="detail-label">Expected 2026 Opening</span>
+                    <span class="detail-value highlight">${company.expectedOpening || 'Unknown'}</span>
+                </div>
+                <div class="detail-group">
+                    <span class="detail-label">Historical 2025 Opening</span>
+                    <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">${company.lastYearOpened || 'Unknown'}</span>
+                </div>
+                <div class="detail-group">
+                    <span class="detail-label">Signals</span>
+                    <span class="detail-value" style="color: var(--text-muted); font-size: 0.85rem;">Source: Industry Trend Projection (AI)</span>
                 </div>
 
-                <div class="card-footer">
-                    <a href="${company.link}" target="_blank" rel="noopener noreferrer" class="apply-btn">
-                        Go to Careers Page
-                    </a>
+                <div class="personal-tracking">
+                    <span class="detail-label">My Status:</span>
+                    <select class="personal-status-select" data-id="${company.id}">
+                        ${opt("To Do")}
+                        ${opt("Applied")}
+                        ${opt("Interviewing")}
+                        ${opt("Offer")}
+                        ${opt("Rejected")}
+                    </select>
                 </div>
-            `;
-            grid.appendChild(card);
-        });
+            </div>
 
-        // Attach listeners to all new select boxes
-        document.querySelectorAll('.personal-status-select').forEach(select => {
-            select.addEventListener('change', handleStatusChange);
-        });
+            <div class="card-footer">
+                <a href="${company.link}" target="_blank" rel="noopener noreferrer" class="apply-btn">
+                    Go to Careers Page
+                </a>
+            </div>
+        `;
+        const select = card.querySelector('.personal-status-select');
+        select.addEventListener('change', handleStatusChange);
+        return card;
     };
 
-    const sortData = (method) => {
-        let sorted = [...companies];
-        if (method === 'expectedOpening') {
-            sorted.sort((a, b) => a.sortMonth - b.sortMonth);
-        } else if (method === 'name') {
-            sorted.sort((a, b) => a.name.localeCompare(b.name));
-        } else if (method === 'myStatus') {
-            // Sort by priority of action: Interviewing > Applied > To Do > Offer > Rejected
-            const priority = { "Interviewing": 1, "To Do": 2, "Applied": 3, "Offer": 4, "Rejected": 5 };
-            sorted.sort((a, b) => {
-                const statA = userStatuses[a.id] || "To Do";
-                const statB = userStatuses[b.id] || "To Do";
-                return priority[statA] - priority[statB];
+    let currentFilter = 'all';
+    
+    function renderCards(companiesToRender) {
+        grid.innerHTML = '';
+        if (companiesToRender.length === 0) {
+            grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">No companies found matching your criteria.</div>';
+            return;
+        }
+        companiesToRender.forEach(company => {
+            grid.appendChild(createCard(company));
+        });
+    }
+
+    function applyFilters() {
+        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+        
+        let filtered = companies.filter(c => c.name.toLowerCase().includes(searchTerm));
+        
+        if (currentFilter === 'open') {
+            filtered = filtered.filter(c => c.status === 'Open');
+        } else if (currentFilter === 'bigtech') {
+            const bigTech = ["Google", "Meta", "Amazon", "Microsoft", "Salesforce", "Apple", "LinkedIn", "Yahoo", "Atlassian", "Roblox", "NVIDIA"];
+            filtered = filtered.filter(c => bigTech.some(t => c.name.toLowerCase().includes(t.toLowerCase())));
+        } else if (currentFilter === 'finance') {
+            const finance = ["Capital One", "JPMorgan", "J.P. Morgan", "Goldman Sachs", "Morgan Stanley", "Visa", "Mastercard", "American Express", "Bloomberg", "Two Sigma", "Jane Street"];
+            filtered = filtered.filter(c => finance.some(t => c.name.toLowerCase().includes(t.toLowerCase())));
+        } else if (currentFilter === 'unicorns') {
+            const unicorns = ["Stripe", "Plaid", "Dropbox", "Uber", "Lyft", "Airbnb", "Pinterest", "Spotify", "Datadog", "Snowflake", "Figma", "Canva"];
+            filtered = filtered.filter(c => unicorns.some(t => c.name.toLowerCase().includes(t.toLowerCase())));
+        } else if (currentFilter === 'my-apps') {
+            filtered = filtered.filter(c => {
+                const status = userStatuses[c.id];
+                return status && status !== "To Do";
             });
         }
-        return sorted;
-    };
+        
+        // Apply Sort
+        const sortVal = document.getElementById('sortSelect').value;
+        filtered.sort((a, b) => {
+            if (sortVal === 'expectedOpening') {
+                return (a.sortMonth || 99) - (b.sortMonth || 99);
+            } else if (sortVal === 'name') {
+                return a.name.localeCompare(b.name);
+            } else if (sortVal === 'myStatus') {
+                const priority = { "Interviewing": 1, "To Do": 2, "Applied": 3, "Offer": 4, "Rejected": 5 };
+                const sA = userStatuses[a.id] || "To Do";
+                const sB = userStatuses[b.id] || "To Do";
+                return priority[sA] - priority[sB];
+            }
+            return 0;
+        });
+
+        renderCards(filtered);
+    }
 
     // Event Listeners
-    sortSelect.addEventListener('change', (e) => {
-        const sortedData = sortData(e.target.value);
-        renderCards(sortedData);
+    document.getElementById('searchInput').addEventListener('input', applyFilters);
+    document.getElementById('sortSelect').addEventListener('change', applyFilters);
+
+    const chips = document.querySelectorAll('.filter-chip');
+    chips.forEach(chip => {
+        chip.addEventListener('click', (e) => {
+            chips.forEach(c => c.classList.remove('active'));
+            e.target.classList.add('active');
+            currentFilter = e.target.dataset.filter;
+            applyFilters();
+        });
     });
 
     // Initial Render
     updateTime();
-    renderCards(sortData(sortSelect.value));
+    applyFilters();
     updateDashboard();
 });

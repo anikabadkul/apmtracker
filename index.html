@@ -60,14 +60,22 @@
         </header>
 
         <!-- CONTROLS -->
-        <div class="controls">
-            <span>Opportunities Directory</span>
-            <div>
+        <div class="controls-wrapper">
+            <div class="search-filter-row">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search companies (e.g. Google)...">
                 <select id="sortSelect" class="sort-select">
                     <option value="expectedOpening">Sort: Expected Opening</option>
                     <option value="name">Sort: Company Name (A-Z)</option>
                     <option value="myStatus">Sort: Action Required</option>
                 </select>
+            </div>
+            <div class="chip-row">
+                <button class="filter-chip active" data-filter="all">All</button>
+                <button class="filter-chip" data-filter="open">Open Now</button>
+                <button class="filter-chip" data-filter="bigtech">Big Tech</button>
+                <button class="filter-chip" data-filter="finance">Finance</button>
+                <button class="filter-chip" data-filter="unicorns">Unicorns</button>
+                <button class="filter-chip" data-filter="my-apps">My Applications</button>
             </div>
         </div>
 
