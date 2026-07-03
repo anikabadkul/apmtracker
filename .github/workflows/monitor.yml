@@ -2,8 +2,8 @@ name: APM Tracker Monitor
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    # Runs at 10 AM and 10 PM EDT (14:00 and 02:00 UTC)
+    - cron: '0 2,14 * * *'
   workflow_dispatch: # Allows manual trigger
 
 permissions:
