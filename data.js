@@ -9,7 +9,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:38:36.389Z",
+    "lastChecked": "2026-10-09T08:25:47.936Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -22,7 +22,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.adobe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:38:42.052Z",
+    "lastChecked": "2026-10-09T08:25:53.628Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -35,7 +35,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.airbnb.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:38:48.071Z",
+    "lastChecked": "2026-10-09T08:25:59.211Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -48,7 +48,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://amazon.jobs",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:38:54.466Z",
+    "lastChecked": "2026-10-09T08:26:05.705Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -61,7 +61,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://aexp.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:38:59.993Z",
+    "lastChecked": "2026-10-09T08:26:11.436Z",
     "lastYearOpened": "2025-08-05"
   },
   {
@@ -74,7 +74,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.appian.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:05.562Z",
+    "lastChecked": "2026-10-09T08:26:17.031Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -87,7 +87,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://arcade.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:11.009Z",
+    "lastChecked": "2026-10-09T08:26:23.395Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -100,7 +100,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://asana.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:19.610Z",
+    "lastChecked": "2026-10-09T08:26:37.352Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -113,7 +113,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://atlassian.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:26.870Z",
+    "lastChecked": "2026-10-09T08:26:44.233Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -126,7 +126,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.blackrock.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:32.982Z",
+    "lastChecked": "2026-10-09T08:26:50.462Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -139,7 +139,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://joinbytedance.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:40.973Z",
+    "lastChecked": "2026-10-09T08:26:57.428Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -165,7 +165,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.cisco.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:47.630Z",
+    "lastChecked": "2026-10-09T08:27:04.376Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -178,7 +178,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.cloud.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:53.306Z",
+    "lastChecked": "2026-10-09T08:27:10.139Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -191,7 +191,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://coinbase.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:39:58.579Z",
+    "lastChecked": "2026-10-09T08:27:15.407Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -204,7 +204,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://databricks.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:03.931Z",
+    "lastChecked": "2026-10-09T08:27:20.913Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -217,7 +217,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:09.219Z",
+    "lastChecked": "2026-10-09T08:27:26.215Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -230,7 +230,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.dropbox.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:14.957Z",
+    "lastChecked": "2026-10-09T08:27:32.076Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -243,7 +243,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.duolingo.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:20.170Z",
+    "lastChecked": "2026-10-09T08:27:37.480Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -256,7 +256,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://app.ripplematch.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:26.528Z",
+    "lastChecked": "2026-10-09T08:27:43.723Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -269,7 +269,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ea.gr8people.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:31.771Z",
+    "lastChecked": "2026-10-09T08:27:48.968Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -282,7 +282,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.expediagroup.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:37.319Z",
+    "lastChecked": "2026-10-09T08:27:54.674Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -295,7 +295,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://figma.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:42.811Z",
+    "lastChecked": "2026-10-09T08:28:00.131Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -308,7 +308,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:48.183Z",
+    "lastChecked": "2026-10-09T08:28:05.550Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -321,7 +321,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://google.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:53.480Z",
+    "lastChecked": "2026-10-09T08:28:10.892Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -334,7 +334,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://indeed.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:40:58.576Z",
+    "lastChecked": "2026-10-09T08:28:16.003Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -347,7 +347,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://instacart.careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:04.376Z",
+    "lastChecked": "2026-10-09T08:28:22.210Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -360,7 +360,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.intuit.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:12.131Z",
+    "lastChecked": "2026-10-09T08:28:29.796Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -386,7 +386,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:17.523Z",
+    "lastChecked": "2026-10-09T08:28:35.044Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -412,7 +412,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:22.640Z",
+    "lastChecked": "2026-10-09T08:28:40.216Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -425,7 +425,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://lyft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:28.576Z",
+    "lastChecked": "2026-10-09T08:28:46.040Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -438,7 +438,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.mastercard.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:34.595Z",
+    "lastChecked": "2026-10-09T08:28:53.080Z",
     "lastYearOpened": "2025-08-05"
   },
   {
@@ -451,7 +451,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:40.638Z",
+    "lastChecked": "2026-10-09T08:28:59.391Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -464,7 +464,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:46.969Z",
+    "lastChecked": "2026-10-09T08:29:05.875Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -477,7 +477,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://miro.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:52.644Z",
+    "lastChecked": "2026-10-09T08:29:12.092Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -490,7 +490,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.careers.microsoft.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:41:58.560Z",
+    "lastChecked": "2026-10-09T08:29:18.128Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -503,7 +503,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://mozilla.org",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:03.896Z",
+    "lastChecked": "2026-10-09T08:29:24.090Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -516,7 +516,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://notion.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:09.496Z",
+    "lastChecked": "2026-10-09T08:29:29.636Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -529,7 +529,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:15.197Z",
+    "lastChecked": "2026-10-09T08:29:35.514Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -542,7 +542,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://paypal.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:23.516Z",
+    "lastChecked": "2026-10-09T08:29:44.096Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -555,7 +555,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:28.616Z",
+    "lastChecked": "2026-10-09T08:29:49.219Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -568,7 +568,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://pinterestcareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:34.309Z",
+    "lastChecked": "2026-10-09T08:29:54.932Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -581,7 +581,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://redhat.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:39.565Z",
+    "lastChecked": "2026-10-09T08:30:00.236Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -594,7 +594,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:45.362Z",
+    "lastChecked": "2026-10-09T08:30:06.116Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -607,7 +607,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:50.786Z",
+    "lastChecked": "2026-10-09T08:30:11.539Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -633,7 +633,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:42:56.117Z",
+    "lastChecked": "2026-10-09T08:30:17.046Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -659,7 +659,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:01.501Z",
+    "lastChecked": "2026-10-09T08:30:22.453Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -672,7 +672,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://schmidtfutures.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:07.838Z",
+    "lastChecked": "2026-10-09T08:30:29.570Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -685,7 +685,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://shopify.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:13.015Z",
+    "lastChecked": "2026-10-09T08:30:34.810Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -698,7 +698,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:18.151Z",
+    "lastChecked": "2026-10-09T08:30:39.952Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -711,7 +711,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://wd1.myworkdaysite.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:23.445Z",
+    "lastChecked": "2026-10-09T08:30:45.206Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -724,7 +724,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://lifeatspotify.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:29.101Z",
+    "lastChecked": "2026-10-09T08:30:51.160Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -737,7 +737,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://block.xyz",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:34.583Z",
+    "lastChecked": "2026-10-09T08:30:56.591Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -750,7 +750,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://stripe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:40.135Z",
+    "lastChecked": "2026-10-09T08:31:02.259Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -763,7 +763,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.eu.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:45.734Z",
+    "lastChecked": "2026-10-09T08:31:08.226Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -776,7 +776,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://tesla.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:51.406Z",
+    "lastChecked": "2026-10-09T08:31:13.356Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -789,7 +789,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.tiktok.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:43:58.247Z",
+    "lastChecked": "2026-10-09T08:31:20.171Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -802,7 +802,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://uber.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:04.017Z",
+    "lastChecked": "2026-10-09T08:31:25.848Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -815,7 +815,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.smartrecruiters.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:09.753Z",
+    "lastChecked": "2026-10-09T08:31:31.513Z",
     "lastYearOpened": "2025-08-05"
   },
   {
@@ -828,7 +828,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.wbd.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:17.482Z",
+    "lastChecked": "2026-10-09T08:31:37.654Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -841,7 +841,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://workday.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:22.652Z",
+    "lastChecked": "2026-10-09T08:31:42.860Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -854,7 +854,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.x.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:27.890Z",
+    "lastChecked": "2026-10-09T08:31:48.230Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -867,7 +867,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://yahooinc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:33.672Z",
+    "lastChecked": "2026-10-09T08:31:54.022Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -880,7 +880,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://zynga.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:39.073Z",
+    "lastChecked": "2026-10-09T08:31:59.357Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -893,7 +893,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.apple.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:44.755Z",
+    "lastChecked": "2026-10-09T08:32:06.161Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -906,7 +906,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://job-boards.greenhouse.io",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:50.289Z",
+    "lastChecked": "2026-10-09T08:32:11.624Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -919,7 +919,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://crowdstrike.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:44:55.480Z",
+    "lastChecked": "2026-10-09T08:32:16.933Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -932,7 +932,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.datadoghq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:00.789Z",
+    "lastChecked": "2026-10-09T08:32:22.405Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -945,7 +945,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://disney.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:06.153Z",
+    "lastChecked": "2026-10-09T08:32:27.583Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -958,7 +958,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://githubinc.jibeapply.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:11.296Z",
+    "lastChecked": "2026-10-09T08:32:32.834Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -971,7 +971,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.hpe.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:17.426Z",
+    "lastChecked": "2026-10-09T08:32:38.944Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -984,7 +984,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ibmglobal.avature.net",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:22.773Z",
+    "lastChecked": "2026-10-09T08:32:44.225Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -997,7 +997,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://janestreet.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:28.358Z",
+    "lastChecked": "2026-10-09T08:32:49.765Z",
     "lastYearOpened": "2025-08-05"
   },
   {
@@ -1010,7 +1010,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:33.604Z",
+    "lastChecked": "2026-10-09T08:32:55.048Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1023,7 +1023,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://mongodb.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:39.315Z",
+    "lastChecked": "2026-10-09T08:33:01.039Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1036,7 +1036,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.nike.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:45.366Z",
+    "lastChecked": "2026-10-09T08:33:07.791Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1049,7 +1049,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://nvidia.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:50.541Z",
+    "lastChecked": "2026-10-09T08:33:12.988Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -1062,7 +1062,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:45:56.191Z",
+    "lastChecked": "2026-10-09T08:33:18.710Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1075,7 +1075,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://eeho.fa.us2.oraclecloud.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:02.659Z",
+    "lastChecked": "2026-10-09T08:33:25.141Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1088,7 +1088,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://app.eightfold.ai",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:08.423Z",
+    "lastChecked": "2026-10-09T08:33:31.088Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1101,7 +1101,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://rakuten.wd1.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:13.571Z",
+    "lastChecked": "2026-10-09T08:33:36.270Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1114,7 +1114,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.sap.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:18.784Z",
+    "lastChecked": "2026-10-09T08:33:41.502Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1127,7 +1127,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.servicenow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:23.896Z",
+    "lastChecked": "2026-10-09T08:33:46.658Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1140,7 +1140,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://salesforce.wd12.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:29.384Z",
+    "lastChecked": "2026-10-09T08:33:52.171Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1153,7 +1153,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.ashbyhq.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:34.576Z",
+    "lastChecked": "2026-10-09T08:33:57.386Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -1166,7 +1166,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://splunk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:40.554Z",
+    "lastChecked": "2026-10-09T08:34:05.324Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1179,7 +1179,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://tencent.wd1.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:45.755Z",
+    "lastChecked": "2026-10-09T08:34:10.562Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1192,7 +1192,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.thetradedesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:51.238Z",
+    "lastChecked": "2026-10-09T08:34:15.907Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1205,7 +1205,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://join.matchgroupcareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:46:56.677Z",
+    "lastChecked": "2026-10-09T08:34:21.755Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1218,7 +1218,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://walmart.wd5.myworkdayjobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:01.916Z",
+    "lastChecked": "2026-10-09T08:34:26.943Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1270,7 +1270,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://seatgeek.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:07.356Z",
+    "lastChecked": "2026-10-09T08:34:32.251Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1322,7 +1322,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.invesco.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:13.769Z",
+    "lastChecked": "2026-10-09T08:34:38.722Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1348,7 +1348,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.tmobile.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:20.312Z",
+    "lastChecked": "2026-10-09T08:34:45.512Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1426,7 +1426,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.jetblue.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:42.100Z",
+    "lastChecked": "2026-10-09T08:35:07.376Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1439,7 +1439,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.aa.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:47.186Z",
+    "lastChecked": "2026-10-09T08:35:12.676Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1452,7 +1452,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.newbalance.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:54.032Z",
+    "lastChecked": "2026-10-09T08:35:18.919Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1465,7 +1465,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://wellsfargojobs.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:47:59.622Z",
+    "lastChecked": "2026-10-09T08:35:24.655Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1478,7 +1478,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.walmart.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:05.144Z",
+    "lastChecked": "2026-10-09T08:35:30.299Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1491,7 +1491,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.draftkings.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:10.298Z",
+    "lastChecked": "2026-10-09T08:35:35.431Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1504,7 +1504,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://metacareers.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:16.567Z",
+    "lastChecked": "2026-10-09T08:35:42.007Z",
     "lastYearOpened": "2025-08-25"
   },
   {
@@ -1517,7 +1517,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jobs.lever.co",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:22.272Z",
+    "lastChecked": "2026-10-09T08:35:47.745Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1530,7 +1530,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ats.rippling.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:28.126Z",
+    "lastChecked": "2026-10-09T08:35:53.776Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1543,7 +1543,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://careers.pnc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:35.996Z",
+    "lastChecked": "2026-10-09T08:36:00.146Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1569,7 +1569,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://linkedin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:41.417Z",
+    "lastChecked": "2026-10-09T08:36:05.713Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1582,7 +1582,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://netflix.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:47.355Z",
+    "lastChecked": "2026-10-09T08:36:12.333Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1595,7 +1595,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://discord.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:53.327Z",
+    "lastChecked": "2026-10-09T08:36:18.613Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1608,7 +1608,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://epicgames.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:48:58.571Z",
+    "lastChecked": "2026-10-09T08:36:23.895Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1621,7 +1621,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://twitch.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:04.598Z",
+    "lastChecked": "2026-10-09T08:36:30.156Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1634,7 +1634,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://roku.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:11.181Z",
+    "lastChecked": "2026-10-09T08:36:36.191Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1647,7 +1647,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://peloton.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:17.217Z",
+    "lastChecked": "2026-10-09T08:36:42.095Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1660,7 +1660,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://zillow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:22.457Z",
+    "lastChecked": "2026-10-09T08:36:47.467Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1673,7 +1673,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://redfin.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:27.784Z",
+    "lastChecked": "2026-10-09T08:36:52.657Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1686,7 +1686,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://opendoor.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:33.176Z",
+    "lastChecked": "2026-10-09T08:36:58.241Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1699,7 +1699,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://compass.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:38.745Z",
+    "lastChecked": "2026-10-09T08:37:03.946Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1712,7 +1712,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://affirm.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:44.067Z",
+    "lastChecked": "2026-10-09T08:37:09.253Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1725,7 +1725,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://klarna.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:49.558Z",
+    "lastChecked": "2026-10-09T08:37:14.814Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1738,7 +1738,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://chime.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:49:54.669Z",
+    "lastChecked": "2026-10-09T08:37:19.966Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1751,7 +1751,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://brex.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:00.330Z",
+    "lastChecked": "2026-10-09T08:37:25.785Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1764,7 +1764,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ramp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:05.977Z",
+    "lastChecked": "2026-10-09T08:37:31.668Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1777,7 +1777,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://gusto.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:11.150Z",
+    "lastChecked": "2026-10-09T08:37:36.912Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1790,7 +1790,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://deel.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:16.779Z",
+    "lastChecked": "2026-10-09T08:37:42.652Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1803,7 +1803,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://canva.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:22.090Z",
+    "lastChecked": "2026-10-09T08:37:48.064Z",
     "lastYearOpened": "2025-09-15"
   },
   {
@@ -1816,7 +1816,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://airtable.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:27.804Z",
+    "lastChecked": "2026-10-09T08:37:53.569Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1829,7 +1829,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://coda.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:33.246Z",
+    "lastChecked": "2026-10-09T08:37:58.978Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1842,7 +1842,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://mondaycom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:40.178Z",
+    "lastChecked": "2026-10-09T08:38:05.792Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1855,7 +1855,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://smartsheet.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:45.301Z",
+    "lastChecked": "2026-10-09T08:38:11.065Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1868,7 +1868,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://elastic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:50.846Z",
+    "lastChecked": "2026-10-09T08:38:16.591Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1894,7 +1894,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://hashicorp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:50:56.410Z",
+    "lastChecked": "2026-10-09T08:38:22.018Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -1907,7 +1907,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://okta.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:02.057Z",
+    "lastChecked": "2026-10-09T08:38:27.616Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1920,7 +1920,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://fastly.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:07.397Z",
+    "lastChecked": "2026-10-09T08:38:33.741Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1933,7 +1933,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://twilio.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:12.794Z",
+    "lastChecked": "2026-10-09T08:38:39.347Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -1946,7 +1946,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://sendgrid.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:18.107Z",
+    "lastChecked": "2026-10-09T08:38:44.820Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -1959,7 +1959,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://messagebird.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:23.875Z",
+    "lastChecked": "2026-10-09T08:38:50.666Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1972,7 +1972,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://hubspot.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:31.021Z",
+    "lastChecked": "2026-10-09T08:38:58.211Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1985,7 +1985,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://zendesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:36.652Z",
+    "lastChecked": "2026-10-09T08:39:03.974Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -1998,7 +1998,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://intercom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:42.216Z",
+    "lastChecked": "2026-10-09T08:39:09.790Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2011,7 +2011,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://box.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:47.780Z",
+    "lastChecked": "2026-10-09T08:39:15.285Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2024,7 +2024,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://docusign.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:53.704Z",
+    "lastChecked": "2026-10-09T08:39:21.331Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2037,7 +2037,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://autodesk.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:51:58.940Z",
+    "lastChecked": "2026-10-09T08:39:26.618Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2050,7 +2050,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://bigcommerce.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:04.555Z",
+    "lastChecked": "2026-10-09T08:39:32.341Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2063,7 +2063,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://etsy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:09.930Z",
+    "lastChecked": "2026-10-09T08:39:37.639Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2076,7 +2076,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://wayfair.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:15.503Z",
+    "lastChecked": "2026-10-09T08:39:43.037Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2089,7 +2089,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://chewy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:21.118Z",
+    "lastChecked": "2026-10-09T08:39:48.425Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2102,7 +2102,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://grubhub.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:26.994Z",
+    "lastChecked": "2026-10-09T08:39:53.966Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2115,7 +2115,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://postmates.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:32.823Z",
+    "lastChecked": "2026-10-09T08:39:59.933Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2128,7 +2128,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://expedia.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:38.571Z",
+    "lastChecked": "2026-10-09T08:40:05.953Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2141,7 +2141,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://bookingcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:45.942Z",
+    "lastChecked": "2026-10-09T08:40:12.892Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2154,7 +2154,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://tripadvisor.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:51.236Z",
+    "lastChecked": "2026-10-09T08:40:18.400Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2167,7 +2167,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://kayak.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:52:57.276Z",
+    "lastChecked": "2026-10-09T08:40:24.327Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2180,7 +2180,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://yelp.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:02.678Z",
+    "lastChecked": "2026-10-09T08:40:29.684Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2206,7 +2206,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://eventbrite.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:08.690Z",
+    "lastChecked": "2026-10-09T08:40:36.040Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2219,7 +2219,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ticketmaster.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:13.902Z",
+    "lastChecked": "2026-10-09T08:40:41.433Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2232,7 +2232,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://vimeo.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:20.871Z",
+    "lastChecked": "2026-10-09T08:40:48.543Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2245,7 +2245,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://alibaba.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:27.271Z",
+    "lastChecked": "2026-10-09T08:40:54.917Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2258,7 +2258,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://baidu.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:39.410Z",
+    "lastChecked": "2026-10-09T08:41:05.879Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2271,7 +2271,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://jdcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:53:45.202Z",
+    "lastChecked": "2026-10-09T08:41:11.562Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2297,7 +2297,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://didi.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:05.857Z",
+    "lastChecked": "2026-10-09T08:41:32.292Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2310,7 +2310,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://grab.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:11.974Z",
+    "lastChecked": "2026-10-09T08:41:38.617Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2323,7 +2323,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://gojek.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:20.209Z",
+    "lastChecked": "2026-10-09T08:41:47.186Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2336,7 +2336,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://mercadolibre.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:25.452Z",
+    "lastChecked": "2026-10-09T08:41:52.410Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2349,7 +2349,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://nubank.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:31.022Z",
+    "lastChecked": "2026-10-09T08:41:58.050Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2362,7 +2362,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://stone.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:36.421Z",
+    "lastChecked": "2026-10-09T08:42:03.557Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2375,7 +2375,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://pagseguro.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:42.689Z",
+    "lastChecked": "2026-10-09T08:42:10.262Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2388,7 +2388,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://paytm.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:49.086Z",
+    "lastChecked": "2026-10-09T08:42:16.948Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2401,7 +2401,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://flipkart.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:54:56.546Z",
+    "lastChecked": "2026-10-09T08:42:24.351Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2414,7 +2414,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://ola.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:03.962Z",
+    "lastChecked": "2026-10-09T08:42:31.184Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2427,7 +2427,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://swiggy.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:09.700Z",
+    "lastChecked": "2026-10-09T08:42:36.991Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2453,7 +2453,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://vmware.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:16.096Z",
+    "lastChecked": "2026-10-09T08:42:43.502Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2466,7 +2466,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://intel.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:22.767Z",
+    "lastChecked": "2026-10-09T08:42:49.559Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2492,7 +2492,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://broadcom.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:29.524Z",
+    "lastChecked": "2026-10-09T08:42:56.351Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2518,7 +2518,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://micron.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:36.143Z",
+    "lastChecked": "2026-10-09T08:43:03.083Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2531,7 +2531,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://appliedmaterials.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:41.629Z",
+    "lastChecked": "2026-10-09T08:43:08.695Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2544,7 +2544,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://asml.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:47.710Z",
+    "lastChecked": "2026-10-09T08:43:14.977Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2557,7 +2557,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://tsmc.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:52.987Z",
+    "lastChecked": "2026-10-09T08:43:20.232Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2570,7 +2570,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://samsung.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:55:59.614Z",
+    "lastChecked": "2026-10-09T08:43:26.973Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2583,7 +2583,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://sony.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:04.846Z",
+    "lastChecked": "2026-10-09T08:43:32.355Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2596,7 +2596,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://lg.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:12.192Z",
+    "lastChecked": "2026-10-09T08:43:39.627Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2609,7 +2609,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://panasonic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:17.884Z",
+    "lastChecked": "2026-10-09T08:43:45.463Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2622,7 +2622,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://philips.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:23.730Z",
+    "lastChecked": "2026-10-09T08:43:51.085Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2635,7 +2635,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://siemens.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:29.358Z",
+    "lastChecked": "2026-10-09T08:43:56.809Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2700,7 +2700,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://dow.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:36.137Z",
+    "lastChecked": "2026-10-09T08:44:03.564Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2713,7 +2713,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://basf.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:42.219Z",
+    "lastChecked": "2026-10-09T08:44:09.804Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2726,7 +2726,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://bayer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:47.697Z",
+    "lastChecked": "2026-10-09T08:44:15.672Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2752,7 +2752,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://pfizer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:53.187Z",
+    "lastChecked": "2026-10-09T08:44:21.148Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2765,7 +2765,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://merck.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:56:58.821Z",
+    "lastChecked": "2026-10-09T08:44:26.982Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2778,7 +2778,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://novartis.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:04.281Z",
+    "lastChecked": "2026-10-09T08:44:32.397Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -2791,7 +2791,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://roche.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:10.929Z",
+    "lastChecked": "2026-10-09T08:44:39.575Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2804,7 +2804,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://sanofi.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:17.425Z",
+    "lastChecked": "2026-10-09T08:44:45.680Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2830,7 +2830,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://astrazeneca.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:37.887Z",
+    "lastChecked": "2026-10-09T08:45:06.200Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2843,7 +2843,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://abbott.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:43.483Z",
+    "lastChecked": "2026-10-09T08:45:11.933Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2856,7 +2856,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://medtronic.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:49.118Z",
+    "lastChecked": "2026-10-09T08:45:17.786Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2869,7 +2869,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://bostonscientific.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:57:54.763Z",
+    "lastChecked": "2026-10-09T08:45:23.602Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2882,7 +2882,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://stryker.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:00.280Z",
+    "lastChecked": "2026-10-09T08:45:29.172Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2908,7 +2908,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://baxter.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:21.104Z",
+    "lastChecked": "2026-10-09T08:45:49.709Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -2921,7 +2921,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://danaher.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:27.090Z",
+    "lastChecked": "2026-10-09T08:45:55.584Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2934,7 +2934,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://thermofisher.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:32.844Z",
+    "lastChecked": "2026-10-09T08:46:01.420Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -2960,7 +2960,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://agilent.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:38.345Z",
+    "lastChecked": "2026-10-09T08:46:06.903Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -2973,7 +2973,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://perkinelmer.com",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:58:44.240Z",
+    "lastChecked": "2026-10-09T08:46:13.218Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -3012,7 +3012,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.henkel.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:20.891Z",
+    "lastChecked": "2026-10-09T08:46:50.024Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -3025,7 +3025,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.procterampgamble.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:26.822Z",
+    "lastChecked": "2026-10-09T08:46:55.801Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -3038,7 +3038,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.dassaultsystemes.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:33.733Z",
+    "lastChecked": "2026-10-09T08:47:03.226Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -3051,7 +3051,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.nbcuniversal.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:39.143Z",
+    "lastChecked": "2026-10-09T08:47:08.666Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -3064,7 +3064,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.ultabeauty.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:45.562Z",
+    "lastChecked": "2026-10-09T08:47:16.436Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -3077,7 +3077,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.illumio.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:51.580Z",
+    "lastChecked": "2026-10-09T08:47:23.007Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -3090,7 +3090,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.glean.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T19:59:57.202Z",
+    "lastChecked": "2026-10-09T08:47:28.883Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -3116,7 +3116,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.corsair.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:03.520Z",
+    "lastChecked": "2026-10-09T08:47:35.749Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -3129,7 +3129,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.snorkelai.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:08.849Z",
+    "lastChecked": "2026-10-09T08:47:41.041Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -3142,7 +3142,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.gemini.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:14.906Z",
+    "lastChecked": "2026-10-09T08:47:47.051Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -3155,7 +3155,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.workiva.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:20.027Z",
+    "lastChecked": "2026-10-09T08:47:52.163Z",
     "lastYearOpened": "2026-03-01"
   },
   {
@@ -3168,7 +3168,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.paramount.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:26.417Z",
+    "lastChecked": "2026-10-09T08:47:57.638Z",
     "lastYearOpened": "2026-02-01"
   },
   {
@@ -3181,7 +3181,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.uipath.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:31.885Z",
+    "lastChecked": "2026-10-09T08:48:03.213Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -3207,7 +3207,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.king.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:52.373Z",
+    "lastChecked": "2026-10-09T08:48:23.993Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -3220,7 +3220,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.zoox.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:00:57.784Z",
+    "lastChecked": "2026-10-09T08:48:29.539Z",
     "lastYearOpened": "2026-01-15"
   },
   {
@@ -3233,7 +3233,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.circle.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:01:04.962Z",
+    "lastChecked": "2026-10-09T08:48:36.352Z",
     "lastYearOpened": "2026-02-15"
   },
   {
@@ -3246,7 +3246,7 @@ const companies = [
     "signals": "Source: Official Career Site",
     "link": "https://www.fortinet.com/careers",
     "status": "Not yet open",
-    "lastChecked": "2026-10-08T20:01:11.222Z",
+    "lastChecked": "2026-10-09T08:48:42.217Z",
     "lastYearOpened": "2026-01-15"
   }
 ];
